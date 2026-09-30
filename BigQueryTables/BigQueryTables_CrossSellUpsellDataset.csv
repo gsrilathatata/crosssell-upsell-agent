@@ -1,0 +1,1001 @@
+CustomerId,TenureInMonths,CurrentPlan,MonthlyDataUsage,MonthlyCallUsage,MonthlySmsUsage,DeviceType,HasBroadband,HasTv,MonthlySpend,RecommendedUpsellPlan,RecommendedCrossSellProduct
+CUST00022,1,Family Plan,7.03,992,289,Android,1,0,58.13,Lite 4GB,International Pack
+CUST00213,1,Family Plan,23.18,351,323,Android,1,0,95.15,Unlimited 20GB,Home Broadband
+CUST00192,2,Family Plan,20.64,91,355,iPhone,0,1,65.47,Family Plan,International Pack
+CUST00870,2,Family Plan,23.86,624,156,Android,0,1,36.34,Unlimited 20GB,None
+CUST00027,3,Family Plan,15.44,1839,226,iPhone,0,1,81.18,Family Plan,Device Insurance
+CUST00198,3,Family Plan,9.36,70,483,Android,0,0,88.78,Standard 10GB,International Pack
+CUST00355,3,Family Plan,13.22,857,59,Android,1,1,25.43,Lite 4GB,Home Broadband
+CUST00552,3,Family Plan,28.82,68,433,Android,0,1,95.23,Lite 4GB,Home Broadband
+CUST00073,4,Family Plan,17.73,1727,145,Android,0,1,56.1,Standard 10GB,None
+CUST00197,4,Family Plan,16.51,476,330,Feature Phone,0,1,99.07,Unlimited 20GB,TV Subscription
+CUST00439,4,Family Plan,3.36,846,135,Android,1,1,84.31,Standard 10GB,Device Insurance
+CUST00833,4,Family Plan,1.32,276,342,Android,0,0,37.38,Lite 4GB,International Pack
+CUST00854,5,Family Plan,28.74,947,339,iPhone,1,1,46.34,Family Plan,None
+CUST00940,5,Family Plan,9.07,1830,131,Feature Phone,1,1,38.23,Unlimited 20GB,Device Insurance
+CUST00455,6,Family Plan,24.04,236,98,Android,0,1,53.6,Unlimited 20GB,None
+CUST00755,6,Family Plan,14.26,610,17,Feature Phone,0,1,50.45,Standard 10GB,Home Broadband
+CUST00817,6,Family Plan,22.65,658,313,Feature Phone,1,0,50.07,Family Plan,International Pack
+CUST00121,7,Family Plan,7.58,1744,100,Android,0,0,35.89,Unlimited 20GB,International Pack
+CUST00141,7,Family Plan,4.76,1002,413,Android,0,1,85.02,Unlimited 20GB,None
+CUST00281,7,Family Plan,13.71,353,261,Android,1,1,18.47,Family Plan,None
+CUST00321,7,Family Plan,12.56,433,24,Feature Phone,1,0,46.15,Standard 10GB,TV Subscription
+CUST00138,8,Family Plan,5.99,54,395,Android,0,0,87.81,Family Plan,Home Broadband
+CUST00163,8,Family Plan,12.9,1912,108,iPhone,1,0,86.37,Standard 10GB,International Pack
+CUST00274,8,Family Plan,6.58,329,2,iPhone,1,0,38.39,Lite 4GB,Home Broadband
+CUST00446,8,Family Plan,21.33,1902,219,Android,0,0,23.09,Family Plan,International Pack
+CUST00120,9,Family Plan,21.34,1200,228,Android,0,1,51.83,Unlimited 20GB,Device Insurance
+CUST00304,9,Family Plan,17.79,1462,44,iPhone,0,1,46.74,Standard 10GB,Home Broadband
+CUST00565,9,Family Plan,23.64,480,238,Feature Phone,1,1,16.69,Standard 10GB,Home Broadband
+CUST00249,10,Family Plan,17.53,1041,332,Android,1,1,28.33,Standard 10GB,International Pack
+CUST00319,10,Family Plan,4.21,1211,144,Android,1,0,51.22,Standard 10GB,International Pack
+CUST00550,10,Family Plan,7.08,1469,205,iPhone,1,1,35.2,Family Plan,International Pack
+CUST00609,10,Family Plan,19.26,877,78,Android,0,1,77.98,Standard 10GB,Device Insurance
+CUST00465,11,Family Plan,22.44,1059,155,Android,0,0,23.59,Standard 10GB,Device Insurance
+CUST00735,11,Family Plan,28.65,1516,9,Feature Phone,0,1,95.74,Standard 10GB,None
+CUST00513,13,Family Plan,24.11,361,369,iPhone,0,1,29.96,Lite 4GB,None
+CUST00959,13,Family Plan,23.77,701,166,Android,0,0,81.78,Unlimited 20GB,International Pack
+CUST00254,14,Family Plan,20.22,1607,254,Feature Phone,1,1,63.22,Lite 4GB,Home Broadband
+CUST00897,14,Family Plan,3.82,1120,264,Android,0,0,94.89,Standard 10GB,Device Insurance
+CUST00176,15,Family Plan,17.63,1796,492,iPhone,0,1,71.11,Unlimited 20GB,TV Subscription
+CUST00998,15,Family Plan,23.08,834,182,Feature Phone,0,1,10.88,Unlimited 20GB,International Pack
+CUST00186,17,Family Plan,28.58,568,72,Android,0,1,21.86,Lite 4GB,Device Insurance
+CUST00194,17,Family Plan,10.37,237,43,iPhone,1,0,44.5,Lite 4GB,Device Insurance
+CUST00317,18,Family Plan,11.66,1721,236,iPhone,1,1,56.67,Lite 4GB,TV Subscription
+CUST00485,18,Family Plan,14.51,1764,366,Android,1,0,49.42,Unlimited 20GB,International Pack
+CUST00611,18,Family Plan,13.41,114,68,Android,1,1,88.43,Lite 4GB,TV Subscription
+CUST00890,18,Family Plan,19.73,1330,53,Android,1,1,39.08,Standard 10GB,TV Subscription
+CUST00987,18,Family Plan,11.17,373,131,Android,0,1,16.5,Family Plan,Device Insurance
+CUST00412,19,Family Plan,0.51,513,407,iPhone,0,0,20.43,Unlimited 20GB,International Pack
+CUST00499,19,Family Plan,19.29,1401,495,Feature Phone,1,1,34.08,Standard 10GB,Home Broadband
+CUST00522,19,Family Plan,7.69,273,431,Feature Phone,0,0,31.75,Lite 4GB,International Pack
+CUST00919,19,Family Plan,13.02,1654,466,Feature Phone,1,0,64.39,Unlimited 20GB,TV Subscription
+CUST00380,21,Family Plan,9.42,1346,203,iPhone,1,0,57.6,Family Plan,Device Insurance
+CUST01000,21,Family Plan,24.42,1888,26,Android,0,1,16.66,Unlimited 20GB,TV Subscription
+CUST00316,23,Family Plan,29.46,1310,39,Android,0,1,85.42,Standard 10GB,None
+CUST00688,23,Family Plan,9.53,114,476,iPhone,0,1,74.69,Family Plan,None
+CUST00618,24,Family Plan,9.64,1562,291,iPhone,0,0,43.1,Lite 4GB,TV Subscription
+CUST00692,24,Family Plan,17.7,376,155,Android,0,0,11.68,Lite 4GB,TV Subscription
+CUST00063,25,Family Plan,27.09,1452,35,iPhone,0,0,78.36,Lite 4GB,None
+CUST00310,25,Family Plan,28.26,1358,51,iPhone,1,1,41.28,Lite 4GB,Home Broadband
+CUST00512,25,Family Plan,27.57,887,202,Feature Phone,0,0,68.87,Lite 4GB,TV Subscription
+CUST00783,25,Family Plan,26.42,1532,290,iPhone,0,0,26.41,Lite 4GB,TV Subscription
+CUST00517,26,Family Plan,0.56,381,155,Feature Phone,0,1,17.15,Standard 10GB,TV Subscription
+CUST00858,26,Family Plan,6.15,1836,110,Feature Phone,1,1,69.27,Family Plan,None
+CUST00934,26,Family Plan,2.95,1354,71,iPhone,1,0,89.94,Standard 10GB,Home Broadband
+CUST00718,28,Family Plan,9.25,1634,31,Feature Phone,0,1,70.14,Lite 4GB,None
+CUST00582,29,Family Plan,2.78,1172,98,Feature Phone,0,1,11.01,Lite 4GB,International Pack
+CUST00344,30,Family Plan,5.36,1307,435,Android,0,1,59.88,Lite 4GB,International Pack
+CUST00370,30,Family Plan,7.7,1263,123,Feature Phone,0,1,95.17,Standard 10GB,None
+CUST00384,30,Family Plan,3.77,1594,293,Android,0,1,80.11,Standard 10GB,None
+CUST00599,30,Family Plan,2.64,1320,146,iPhone,0,1,18.07,Family Plan,TV Subscription
+CUST00043,31,Family Plan,25.11,1477,470,Feature Phone,1,1,15.06,Lite 4GB,Device Insurance
+CUST00876,31,Family Plan,13.84,138,216,Android,1,1,88.65,Lite 4GB,International Pack
+CUST00032,32,Family Plan,1.24,640,140,Android,0,1,85.05,Unlimited 20GB,TV Subscription
+CUST00643,32,Family Plan,7.19,1276,353,iPhone,0,0,24.27,Unlimited 20GB,TV Subscription
+CUST00012,33,Family Plan,16.11,288,1,Android,0,1,65.5,Standard 10GB,Device Insurance
+CUST00377,33,Family Plan,10.96,923,130,Feature Phone,1,1,40.27,Lite 4GB,None
+CUST00008,34,Family Plan,16.85,1226,44,iPhone,1,0,43.06,Lite 4GB,Device Insurance
+CUST00366,34,Family Plan,13.93,1823,6,Android,1,1,48.94,Lite 4GB,International Pack
+CUST00681,34,Family Plan,18.34,685,122,iPhone,0,1,17.87,Standard 10GB,None
+CUST00881,34,Family Plan,29.91,846,56,Android,1,0,89.44,Lite 4GB,International Pack
+CUST00041,35,Family Plan,26.26,234,77,Android,1,1,18.52,Lite 4GB,International Pack
+CUST00872,35,Family Plan,1.05,1130,355,Android,0,0,18.54,Standard 10GB,None
+CUST00314,36,Family Plan,15.34,1359,412,Feature Phone,1,0,69.96,Lite 4GB,None
+CUST00303,37,Family Plan,27.86,370,264,iPhone,1,0,66.6,Unlimited 20GB,Home Broadband
+CUST00601,37,Family Plan,9.14,409,151,iPhone,1,0,70.54,Family Plan,Device Insurance
+CUST00741,38,Family Plan,28.87,116,150,iPhone,0,1,63.23,Family Plan,International Pack
+CUST00363,39,Family Plan,27.08,1709,193,Android,0,1,93.93,Family Plan,Home Broadband
+CUST00469,40,Family Plan,18.75,132,481,Feature Phone,0,0,45.32,Lite 4GB,TV Subscription
+CUST00276,42,Family Plan,0.56,1035,375,Feature Phone,0,1,91.17,Unlimited 20GB,Device Insurance
+CUST00432,42,Family Plan,14.57,1705,163,Android,1,1,12.61,Family Plan,Home Broadband
+CUST00659,42,Family Plan,29.34,995,157,Feature Phone,0,1,34.79,Unlimited 20GB,International Pack
+CUST00619,43,Family Plan,6.01,465,492,iPhone,0,1,37.04,Lite 4GB,International Pack
+CUST00180,45,Family Plan,2.09,1686,299,iPhone,0,1,37.7,Standard 10GB,None
+CUST00255,45,Family Plan,18.66,1471,362,iPhone,1,0,51.21,Lite 4GB,Home Broadband
+CUST00487,45,Family Plan,20.51,1393,351,Feature Phone,1,1,68.57,Unlimited 20GB,TV Subscription
+CUST00335,46,Family Plan,17.41,1159,327,iPhone,0,0,94.06,Lite 4GB,Device Insurance
+CUST00628,46,Family Plan,3.8,1647,154,Feature Phone,0,1,45,Standard 10GB,TV Subscription
+CUST00984,46,Family Plan,5.06,1967,122,Android,0,0,94.6,Lite 4GB,TV Subscription
+CUST00398,47,Family Plan,22.76,1393,43,Feature Phone,0,0,79.65,Unlimited 20GB,Device Insurance
+CUST00472,47,Family Plan,1.73,1858,56,iPhone,0,0,70.68,Family Plan,Home Broadband
+CUST00933,47,Family Plan,21.32,1054,470,iPhone,0,0,25.7,Standard 10GB,International Pack
+CUST00387,48,Family Plan,21.94,1596,118,iPhone,1,0,90.86,Unlimited 20GB,None
+CUST00102,49,Family Plan,19.62,294,108,Feature Phone,1,1,29.47,Standard 10GB,International Pack
+CUST00641,49,Family Plan,0.58,1778,241,iPhone,0,0,73.67,Unlimited 20GB,TV Subscription
+CUST00661,49,Family Plan,15.33,1319,271,Android,1,1,59.98,Standard 10GB,Device Insurance
+CUST00510,50,Family Plan,29.62,570,337,Feature Phone,1,0,26.9,Lite 4GB,Home Broadband
+CUST00832,50,Family Plan,19.74,1919,303,iPhone,1,0,54.04,Family Plan,Device Insurance
+CUST00836,50,Family Plan,16.93,1576,176,iPhone,1,0,89.06,Lite 4GB,None
+CUST00960,50,Family Plan,25.51,1010,474,Android,1,1,23.3,Unlimited 20GB,Device Insurance
+CUST00977,50,Family Plan,2.41,971,241,Android,0,1,74.53,Unlimited 20GB,Device Insurance
+CUST00117,51,Family Plan,26.74,1891,48,Feature Phone,1,1,71.32,Family Plan,None
+CUST00750,51,Family Plan,27.49,1309,232,iPhone,0,1,50.87,Unlimited 20GB,International Pack
+CUST00516,52,Family Plan,24.4,1091,265,iPhone,0,1,17.33,Family Plan,None
+CUST00779,52,Family Plan,6.09,1086,454,iPhone,0,1,15.86,Standard 10GB,International Pack
+CUST00989,52,Family Plan,29.95,1017,76,iPhone,1,1,34.65,Standard 10GB,None
+CUST00331,56,Family Plan,1.95,1848,180,iPhone,0,1,95.45,Standard 10GB,Home Broadband
+CUST00613,56,Family Plan,29.8,56,425,Android,0,0,37,Family Plan,None
+CUST00845,56,Family Plan,18.25,493,284,Feature Phone,1,0,70.27,Unlimited 20GB,International Pack
+CUST00407,57,Family Plan,7.52,1531,37,Feature Phone,1,0,15.04,Lite 4GB,None
+CUST00736,57,Family Plan,13.1,1810,385,Feature Phone,0,1,22.25,Standard 10GB,Device Insurance
+CUST00305,58,Family Plan,27.49,1941,52,Feature Phone,1,0,86.28,Unlimited 20GB,TV Subscription
+CUST00346,60,Family Plan,11.23,1613,238,Android,0,1,21.88,Lite 4GB,None
+CUST00409,60,Family Plan,23.36,1031,157,Android,0,0,28.78,Standard 10GB,International Pack
+CUST00660,60,Family Plan,21.59,1624,66,iPhone,1,1,76.79,Family Plan,Device Insurance
+CUST00116,61,Family Plan,24.36,1901,68,Feature Phone,0,0,31.02,Lite 4GB,None
+CUST00514,61,Family Plan,20.05,488,491,Android,1,1,93.69,Standard 10GB,Device Insurance
+CUST00849,61,Family Plan,20.45,1971,16,Android,1,0,63.28,Standard 10GB,None
+CUST00238,62,Family Plan,25.21,542,305,iPhone,0,0,76.97,Lite 4GB,Home Broadband
+CUST00484,62,Family Plan,1.8,212,364,iPhone,1,1,39.79,Lite 4GB,Home Broadband
+CUST00511,62,Family Plan,8.07,1833,96,iPhone,1,1,95.15,Family Plan,Device Insurance
+CUST00967,62,Family Plan,29.07,1203,175,iPhone,1,0,77.9,Standard 10GB,Device Insurance
+CUST00152,63,Family Plan,28.2,143,119,Feature Phone,1,1,90.17,Family Plan,None
+CUST00013,64,Family Plan,2.03,1399,1,Android,0,1,97.55,Unlimited 20GB,TV Subscription
+CUST00101,64,Family Plan,12.98,529,64,Feature Phone,0,1,57.96,Unlimited 20GB,None
+CUST00418,64,Family Plan,24.72,1479,468,Android,0,0,86.13,Standard 10GB,None
+CUST00673,64,Family Plan,4.85,586,210,Android,1,0,47.23,Family Plan,Device Insurance
+CUST00047,66,Family Plan,9.22,422,353,Android,1,1,22.05,Family Plan,Device Insurance
+CUST00480,66,Family Plan,7.43,1092,282,Feature Phone,1,1,26.35,Lite 4GB,Device Insurance
+CUST00595,66,Family Plan,20.55,1424,130,Android,0,0,96.89,Unlimited 20GB,Device Insurance
+CUST00214,67,Family Plan,19.83,356,301,Feature Phone,1,1,29.92,Unlimited 20GB,Device Insurance
+CUST00267,67,Family Plan,16.84,1808,418,Feature Phone,1,1,53.95,Family Plan,International Pack
+CUST00570,67,Family Plan,14.18,539,396,Feature Phone,1,0,39.49,Lite 4GB,Home Broadband
+CUST00722,67,Family Plan,11.27,738,133,Android,0,1,54.66,Standard 10GB,Home Broadband
+CUST00330,69,Family Plan,20.46,1449,293,Feature Phone,0,1,69.65,Lite 4GB,TV Subscription
+CUST00679,69,Family Plan,4.7,928,334,Feature Phone,0,0,17.76,Family Plan,TV Subscription
+CUST00862,69,Family Plan,10.98,1026,232,Android,0,0,65.46,Lite 4GB,Home Broadband
+CUST00223,70,Family Plan,24.85,637,12,Feature Phone,1,0,36.63,Family Plan,Device Insurance
+CUST00308,70,Family Plan,28.02,1435,308,Feature Phone,1,0,98,Family Plan,Home Broadband
+CUST00483,70,Family Plan,3.15,1274,9,Feature Phone,1,1,55.61,Unlimited 20GB,None
+CUST00055,71,Family Plan,29.03,1022,134,Android,0,0,12.02,Unlimited 20GB,Home Broadband
+CUST00105,71,Family Plan,13.2,1491,389,Android,1,0,48.49,Standard 10GB,Home Broadband
+CUST00789,71,Family Plan,28.84,1679,32,Android,1,0,17.9,Family Plan,Device Insurance
+CUST00315,72,Family Plan,23.49,357,379,Android,0,0,48.58,Standard 10GB,International Pack
+CUST00909,72,Family Plan,7.62,604,254,Android,1,0,76.64,Standard 10GB,Home Broadband
+CUST00265,73,Family Plan,25.39,765,484,Android,0,1,82.77,Standard 10GB,International Pack
+CUST00286,73,Family Plan,24.49,106,467,Feature Phone,0,0,68.27,Standard 10GB,International Pack
+CUST00921,73,Family Plan,9.5,92,357,Android,1,0,28.48,Family Plan,Device Insurance
+CUST00108,74,Family Plan,24.11,254,214,Android,0,0,68.5,Unlimited 20GB,International Pack
+CUST00188,74,Family Plan,28.49,532,445,Feature Phone,1,0,49.47,Family Plan,TV Subscription
+CUST00323,75,Family Plan,3.87,106,273,Android,1,0,33.62,Unlimited 20GB,Home Broadband
+CUST00875,75,Family Plan,15.91,1201,239,iPhone,0,0,86.02,Standard 10GB,None
+CUST00354,76,Family Plan,28.98,1210,484,Feature Phone,0,0,93.92,Lite 4GB,TV Subscription
+CUST00408,77,Family Plan,11.28,1209,388,iPhone,0,1,42.94,Standard 10GB,International Pack
+CUST00501,77,Family Plan,7.92,1260,3,Feature Phone,0,0,95.13,Lite 4GB,International Pack
+CUST00025,78,Family Plan,27.82,287,256,Feature Phone,1,1,97.45,Unlimited 20GB,International Pack
+CUST00568,78,Family Plan,16.58,216,403,Android,0,1,25.53,Standard 10GB,None
+CUST00268,79,Family Plan,16.99,159,59,Android,0,1,92.27,Standard 10GB,Device Insurance
+CUST00606,79,Family Plan,28.57,197,200,Android,1,0,66.14,Family Plan,None
+CUST00023,80,Family Plan,27.31,1911,419,Feature Phone,1,1,48.22,Family Plan,None
+CUST00715,80,Family Plan,12.06,1099,192,Feature Phone,0,0,18.92,Lite 4GB,International Pack
+CUST00698,81,Family Plan,12.33,1003,20,iPhone,0,0,23.79,Standard 10GB,International Pack
+CUST00732,81,Family Plan,22.8,283,367,iPhone,1,1,21.54,Lite 4GB,Home Broadband
+CUST00746,81,Family Plan,11.64,768,370,Feature Phone,1,0,24.21,Unlimited 20GB,International Pack
+CUST00069,82,Family Plan,21.99,1030,296,Feature Phone,0,0,51.47,Unlimited 20GB,Home Broadband
+CUST00337,82,Family Plan,0.99,1031,71,Android,0,1,28.92,Standard 10GB,Home Broadband
+CUST00506,82,Family Plan,6.16,521,193,Android,0,0,91.3,Unlimited 20GB,Device Insurance
+CUST00583,82,Family Plan,20.46,401,348,Feature Phone,1,0,90.59,Standard 10GB,Device Insurance
+CUST00048,83,Family Plan,23.16,511,258,Android,1,0,93.81,Lite 4GB,International Pack
+CUST00060,83,Family Plan,13.25,1000,347,Feature Phone,0,0,55.83,Standard 10GB,None
+CUST00142,83,Family Plan,9.06,1963,241,Feature Phone,0,1,72.05,Lite 4GB,None
+CUST00652,84,Family Plan,25.24,1212,433,Android,0,1,42.14,Family Plan,Device Insurance
+CUST00768,84,Family Plan,23.8,1724,38,Android,1,0,96.36,Family Plan,Home Broadband
+CUST00907,84,Family Plan,23.23,939,182,Android,0,1,61.87,Standard 10GB,None
+CUST00694,85,Family Plan,26.67,1932,137,Android,0,0,18.62,Lite 4GB,Device Insurance
+CUST00239,86,Family Plan,12.88,1841,400,Feature Phone,1,1,90.54,Standard 10GB,International Pack
+CUST00342,86,Family Plan,27.17,90,58,Android,1,0,53.64,Standard 10GB,International Pack
+CUST00495,86,Family Plan,5.96,1222,453,iPhone,1,1,95.25,Family Plan,Home Broadband
+CUST00813,86,Family Plan,7.78,509,1,Feature Phone,1,0,96.43,Standard 10GB,Device Insurance
+CUST00965,86,Family Plan,12.99,284,369,Android,1,1,97.42,Family Plan,Device Insurance
+CUST00990,86,Family Plan,4.61,1918,406,Feature Phone,0,1,32.04,Standard 10GB,TV Subscription
+CUST00283,87,Family Plan,15.65,1258,406,Feature Phone,1,1,14.59,Standard 10GB,International Pack
+CUST00328,87,Family Plan,21.46,121,184,Android,1,1,86.11,Standard 10GB,Home Broadband
+CUST00757,87,Family Plan,6.35,1829,25,Android,1,1,63.91,Unlimited 20GB,Device Insurance
+CUST00931,87,Family Plan,12.6,1190,288,Android,1,1,85.16,Lite 4GB,Device Insurance
+CUST00291,88,Family Plan,5.76,595,150,Feature Phone,1,0,67.7,Lite 4GB,Device Insurance
+CUST00442,89,Family Plan,2.91,967,308,Feature Phone,1,0,11.38,Standard 10GB,International Pack
+CUST00458,89,Family Plan,26.33,866,50,Feature Phone,0,1,87.3,Unlimited 20GB,None
+CUST00900,89,Family Plan,26.39,514,302,Android,0,1,81.63,Unlimited 20GB,TV Subscription
+CUST00156,90,Family Plan,21.12,1738,484,Feature Phone,1,0,46.71,Unlimited 20GB,None
+CUST00706,90,Family Plan,3.62,1718,253,Feature Phone,1,0,30.22,Unlimited 20GB,Device Insurance
+CUST00798,90,Family Plan,2.29,1129,187,Feature Phone,0,1,42.15,Lite 4GB,International Pack
+CUST00006,91,Family Plan,22.15,1682,207,Feature Phone,0,0,25.05,Lite 4GB,Home Broadband
+CUST00168,91,Family Plan,13.37,912,280,iPhone,0,0,54.44,Unlimited 20GB,None
+CUST00300,91,Family Plan,12.39,682,233,Android,0,0,67.68,Unlimited 20GB,Home Broadband
+CUST00401,91,Family Plan,5.39,77,441,iPhone,1,1,88.7,Family Plan,TV Subscription
+CUST00020,92,Family Plan,18.55,1459,88,Android,1,1,47.03,Standard 10GB,Device Insurance
+CUST00381,92,Family Plan,18.67,275,181,Android,1,1,32.05,Unlimited 20GB,None
+CUST00820,92,Family Plan,16.64,755,345,Android,1,0,26.94,Family Plan,TV Subscription
+CUST00034,93,Family Plan,9.77,1188,455,iPhone,1,0,77.11,Lite 4GB,None
+CUST00127,93,Family Plan,24.14,1776,480,iPhone,0,1,84.78,Standard 10GB,Device Insurance
+CUST00441,93,Family Plan,17.73,1141,84,iPhone,0,0,71.44,Unlimited 20GB,International Pack
+CUST00667,93,Family Plan,1.02,1909,425,iPhone,1,1,63.59,Unlimited 20GB,International Pack
+CUST00864,93,Family Plan,19.71,960,106,Android,1,1,67.23,Lite 4GB,TV Subscription
+CUST00903,93,Family Plan,0.66,635,476,Android,1,0,54.22,Unlimited 20GB,International Pack
+CUST00860,94,Family Plan,14.27,1652,314,Feature Phone,1,1,81.58,Standard 10GB,None
+CUST00164,95,Family Plan,14.79,1057,324,iPhone,1,1,14.65,Unlimited 20GB,Home Broadband
+CUST00492,95,Family Plan,12.69,1275,108,Feature Phone,1,0,10.43,Lite 4GB,TV Subscription
+CUST00711,95,Family Plan,26.58,1515,427,iPhone,1,1,85.07,Standard 10GB,International Pack
+CUST00395,96,Family Plan,27.66,1701,217,Feature Phone,1,1,51.43,Unlimited 20GB,International Pack
+CUST00433,97,Family Plan,22.98,1504,108,iPhone,0,0,32.48,Lite 4GB,None
+CUST00167,98,Family Plan,18.55,291,293,iPhone,1,1,77.15,Family Plan,Home Broadband
+CUST00627,98,Family Plan,10.05,1671,334,Feature Phone,1,1,25.62,Unlimited 20GB,Device Insurance
+CUST00946,98,Family Plan,26.22,1452,213,Android,0,0,96.11,Unlimited 20GB,TV Subscription
+CUST00988,98,Family Plan,21.03,500,315,iPhone,1,1,43.51,Family Plan,None
+CUST00399,99,Family Plan,21.29,1680,89,Feature Phone,0,0,94.55,Standard 10GB,Home Broadband
+CUST00092,100,Family Plan,10.55,814,139,Feature Phone,0,0,41.6,Family Plan,International Pack
+CUST00893,100,Family Plan,13.69,724,100,Feature Phone,0,1,29.27,Standard 10GB,None
+CUST00584,101,Family Plan,22.86,109,426,Android,0,0,81.86,Lite 4GB,TV Subscription
+CUST00710,101,Family Plan,15.21,1608,317,iPhone,0,0,49.2,Unlimited 20GB,Device Insurance
+CUST00352,102,Family Plan,5.78,493,122,Android,0,0,77.15,Lite 4GB,Home Broadband
+CUST00489,102,Family Plan,8,904,94,Android,1,0,86.24,Unlimited 20GB,International Pack
+CUST00593,102,Family Plan,6.76,521,52,iPhone,1,1,67.83,Lite 4GB,Device Insurance
+CUST00822,102,Family Plan,5.21,519,58,Android,1,0,10.53,Unlimited 20GB,Device Insurance
+CUST00823,102,Family Plan,17.97,1916,245,Feature Phone,0,1,62.4,Unlimited 20GB,Home Broadband
+CUST00841,103,Family Plan,22.71,658,449,Feature Phone,0,1,98.68,Family Plan,International Pack
+CUST00888,103,Family Plan,10.38,291,333,iPhone,1,0,40.97,Lite 4GB,TV Subscription
+CUST00392,104,Family Plan,20.11,1392,271,Android,0,0,29.87,Lite 4GB,Device Insurance
+CUST00535,104,Family Plan,10.38,144,40,Feature Phone,1,1,59.49,Standard 10GB,Home Broadband
+CUST00972,104,Family Plan,1.2,608,392,iPhone,0,0,31.44,Unlimited 20GB,None
+CUST00185,105,Family Plan,7.69,501,337,Feature Phone,1,1,84.2,Family Plan,Device Insurance
+CUST00651,105,Family Plan,27.26,1957,256,Feature Phone,0,0,70.08,Lite 4GB,Device Insurance
+CUST00334,106,Family Plan,3.64,875,206,iPhone,0,1,98.1,Lite 4GB,None
+CUST00064,107,Family Plan,15.78,1756,242,iPhone,1,0,12.01,Family Plan,None
+CUST00236,107,Family Plan,13.91,337,375,Android,1,1,17.99,Family Plan,Device Insurance
+CUST00573,107,Family Plan,2.72,155,159,Android,0,1,67.71,Lite 4GB,TV Subscription
+CUST00680,107,Family Plan,6.2,444,176,Feature Phone,0,0,59.81,Lite 4GB,TV Subscription
+CUST00816,107,Family Plan,0.59,1894,160,Feature Phone,0,0,46.38,Family Plan,None
+CUST00445,108,Family Plan,1.04,1642,52,iPhone,1,1,24.4,Family Plan,Home Broadband
+CUST00527,108,Family Plan,11.73,501,465,Android,0,0,42.32,Standard 10GB,International Pack
+CUST00803,108,Family Plan,16.73,1831,81,Feature Phone,0,0,34.15,Family Plan,International Pack
+CUST00456,109,Family Plan,6.79,1549,138,iPhone,1,0,70.61,Unlimited 20GB,Home Broadband
+CUST00125,110,Family Plan,14.99,1375,165,iPhone,1,0,75.84,Standard 10GB,Device Insurance
+CUST00508,110,Family Plan,8.69,1033,199,Android,1,0,46.97,Unlimited 20GB,None
+CUST00700,110,Family Plan,8.28,1971,156,Feature Phone,0,0,88.7,Unlimited 20GB,International Pack
+CUST00018,111,Family Plan,10.74,1061,450,Android,1,0,36.67,Lite 4GB,Device Insurance
+CUST00097,112,Family Plan,24.46,171,315,Android,0,0,88.54,Lite 4GB,International Pack
+CUST00004,113,Family Plan,3.08,1862,268,iPhone,1,0,10.47,Unlimited 20GB,Home Broadband
+CUST00247,113,Family Plan,20.31,1163,335,Android,0,1,11.78,Unlimited 20GB,None
+CUST00596,113,Family Plan,9.65,1707,0,Feature Phone,0,1,56.82,Standard 10GB,International Pack
+CUST00731,113,Family Plan,8.36,1883,365,Android,1,1,83.03,Family Plan,Home Broadband
+CUST00995,114,Family Plan,2.71,295,206,Feature Phone,0,0,54.82,Standard 10GB,International Pack
+CUST00114,115,Family Plan,17.03,66,272,Feature Phone,0,0,90.62,Standard 10GB,Device Insurance
+CUST00999,115,Family Plan,1.32,300,269,Feature Phone,0,1,93.42,Family Plan,International Pack
+CUST00739,116,Family Plan,17.13,865,76,Android,1,1,15.36,Standard 10GB,Home Broadband
+CUST00423,119,Family Plan,25.75,700,0,iPhone,1,0,99.96,Family Plan,Device Insurance
+CUST00853,119,Family Plan,24.52,1499,149,Feature Phone,1,1,40.17,Family Plan,Device Insurance
+CUST00902,119,Family Plan,17.49,1465,483,Android,1,0,51.1,Unlimited 20GB,TV Subscription
+CUST00938,119,Family Plan,28.55,1323,221,Feature Phone,1,0,71.93,Unlimited 20GB,TV Subscription
+CUST00376,120,Family Plan,20.8,352,62,Android,1,0,42.2,Lite 4GB,Home Broadband
+CUST00481,120,Family Plan,14.69,1081,37,Android,0,1,61.78,Unlimited 20GB,Home Broadband
+CUST00850,120,Family Plan,23.51,1175,351,Feature Phone,0,0,34.03,Family Plan,Home Broadband
+CUST00745,1,Lite 4GB,3.75,1498,377,Feature Phone,1,1,31.42,Unlimited 20GB,TV Subscription
+CUST00996,1,Lite 4GB,7.86,495,372,Android,1,1,78.11,Standard 10GB,None
+CUST00566,3,Lite 4GB,18.44,1192,189,iPhone,0,0,51.23,Standard 10GB,TV Subscription
+CUST00597,3,Lite 4GB,4.35,1191,226,Feature Phone,1,1,48.5,Standard 10GB,International Pack
+CUST00639,3,Lite 4GB,13.91,769,432,Android,0,1,76.15,Family Plan,TV Subscription
+CUST00642,5,Lite 4GB,8.38,1913,15,Feature Phone,1,0,62.78,Lite 4GB,Home Broadband
+CUST00118,6,Lite 4GB,28.01,1803,371,iPhone,1,1,59.34,Standard 10GB,International Pack
+CUST00139,6,Lite 4GB,7.3,821,296,Feature Phone,0,1,11.74,Lite 4GB,Device Insurance
+CUST00482,6,Lite 4GB,8.53,1505,310,Android,0,0,51.9,Family Plan,TV Subscription
+CUST00544,6,Lite 4GB,20.59,391,139,Android,0,0,89.98,Unlimited 20GB,None
+CUST00024,7,Lite 4GB,1.09,1351,351,Android,0,0,60.07,Lite 4GB,Home Broadband
+CUST00081,7,Lite 4GB,29.24,78,14,Android,0,1,85.66,Lite 4GB,Home Broadband
+CUST00629,7,Lite 4GB,12.14,1901,190,iPhone,1,0,55.4,Standard 10GB,None
+CUST00031,9,Lite 4GB,4.48,224,437,iPhone,0,0,48.57,Unlimited 20GB,Home Broadband
+CUST00160,9,Lite 4GB,3.82,1466,57,iPhone,0,0,76.68,Family Plan,Home Broadband
+CUST00592,9,Lite 4GB,13.38,922,395,iPhone,0,1,72.3,Lite 4GB,International Pack
+CUST00923,9,Lite 4GB,26.23,1093,439,Feature Phone,0,1,84.81,Lite 4GB,International Pack
+CUST00385,10,Lite 4GB,24.51,1064,146,Feature Phone,1,1,64.29,Standard 10GB,Home Broadband
+CUST00762,12,Lite 4GB,15.22,458,66,Android,0,1,63.34,Family Plan,Home Broadband
+CUST00767,12,Lite 4GB,5.95,1025,117,Feature Phone,1,0,71.3,Lite 4GB,Home Broadband
+CUST00857,13,Lite 4GB,12.62,337,17,Feature Phone,1,0,96.3,Standard 10GB,Home Broadband
+CUST00397,14,Lite 4GB,8.95,1452,356,Feature Phone,1,0,87.3,Lite 4GB,TV Subscription
+CUST00806,14,Lite 4GB,22.51,1392,479,Feature Phone,1,1,17.88,Lite 4GB,Home Broadband
+CUST00107,16,Lite 4GB,25.97,1721,401,Feature Phone,1,1,20.54,Standard 10GB,International Pack
+CUST00367,17,Lite 4GB,25.41,1063,121,Android,0,0,89.22,Lite 4GB,None
+CUST00378,17,Lite 4GB,26.26,100,392,iPhone,0,0,75.77,Unlimited 20GB,International Pack
+CUST00379,17,Lite 4GB,4.33,85,251,iPhone,1,0,50.43,Family Plan,TV Subscription
+CUST00466,18,Lite 4GB,8.17,1114,462,iPhone,1,1,89.22,Family Plan,TV Subscription
+CUST00598,18,Lite 4GB,13.62,788,463,iPhone,1,1,74.83,Unlimited 20GB,Home Broadband
+CUST00602,18,Lite 4GB,27.64,990,46,iPhone,1,0,44.33,Standard 10GB,TV Subscription
+CUST00068,19,Lite 4GB,4.72,989,482,Feature Phone,0,0,26.92,Family Plan,Device Insurance
+CUST00443,19,Lite 4GB,25.77,399,123,Feature Phone,1,0,29.5,Lite 4GB,International Pack
+CUST00479,19,Lite 4GB,8.79,1762,222,Feature Phone,0,0,20.35,Lite 4GB,TV Subscription
+CUST00588,21,Lite 4GB,2.16,221,151,Android,1,1,46.16,Family Plan,International Pack
+CUST00234,22,Lite 4GB,15.29,1482,335,Feature Phone,0,0,13.37,Lite 4GB,None
+CUST00491,22,Lite 4GB,19.47,1152,108,iPhone,0,1,20.66,Standard 10GB,Home Broadband
+CUST00390,23,Lite 4GB,10.22,843,39,Feature Phone,0,1,33.1,Family Plan,Home Broadband
+CUST00546,23,Lite 4GB,21.19,860,282,Feature Phone,1,0,16.8,Family Plan,Home Broadband
+CUST00417,25,Lite 4GB,14.23,1274,280,Feature Phone,1,0,55.84,Unlimited 20GB,Home Broadband
+CUST00270,26,Lite 4GB,23.42,1901,107,Android,1,1,95.04,Unlimited 20GB,None
+CUST00122,27,Lite 4GB,22.57,1260,67,iPhone,0,1,89.15,Unlimited 20GB,Home Broadband
+CUST00671,27,Lite 4GB,28.66,1873,77,iPhone,1,1,11.67,Family Plan,TV Subscription
+CUST00019,28,Lite 4GB,13.05,1038,93,iPhone,1,1,15.35,Standard 10GB,Home Broadband
+CUST00021,30,Lite 4GB,23.35,814,61,iPhone,1,1,74.05,Lite 4GB,Home Broadband
+CUST00124,30,Lite 4GB,2.69,1129,204,Android,1,0,70.63,Lite 4GB,International Pack
+CUST00353,30,Lite 4GB,10.01,1497,440,Android,0,0,60.19,Standard 10GB,Device Insurance
+CUST00632,30,Lite 4GB,3.82,1285,239,Android,1,0,15.64,Standard 10GB,TV Subscription
+CUST00886,30,Lite 4GB,29.65,787,212,Android,1,0,90.02,Unlimited 20GB,Device Insurance
+CUST00657,32,Lite 4GB,14.86,959,149,Feature Phone,0,1,94.81,Unlimited 20GB,Home Broadband
+CUST00227,33,Lite 4GB,11.35,247,312,Android,0,1,21.26,Lite 4GB,None
+CUST00356,34,Lite 4GB,12.19,169,18,iPhone,1,0,54.79,Unlimited 20GB,International Pack
+CUST00537,34,Lite 4GB,11.63,1731,400,Feature Phone,1,0,60.41,Standard 10GB,Device Insurance
+CUST00771,35,Lite 4GB,28.08,1783,143,Feature Phone,1,1,48.63,Family Plan,None
+CUST00285,36,Lite 4GB,26.14,1685,290,Android,1,1,61.9,Lite 4GB,None
+CUST00737,36,Lite 4GB,13.17,650,328,Android,1,1,43.31,Unlimited 20GB,International Pack
+CUST00748,36,Lite 4GB,3.18,128,297,Android,1,0,37.5,Lite 4GB,International Pack
+CUST00891,36,Lite 4GB,7.88,564,191,Feature Phone,1,1,98.27,Family Plan,International Pack
+CUST00964,36,Lite 4GB,17.76,995,215,Android,1,1,90.5,Family Plan,International Pack
+CUST00129,37,Lite 4GB,21.21,1072,466,iPhone,1,1,75.88,Lite 4GB,Home Broadband
+CUST00411,37,Lite 4GB,13.5,856,291,iPhone,0,1,39.21,Unlimited 20GB,Home Broadband
+CUST00010,38,Lite 4GB,10.56,1742,371,Feature Phone,0,1,50.82,Family Plan,None
+CUST00324,38,Lite 4GB,4.15,1745,354,iPhone,0,1,67.18,Lite 4GB,None
+CUST00548,38,Lite 4GB,17.45,544,92,Feature Phone,1,1,56.41,Family Plan,International Pack
+CUST00203,40,Lite 4GB,15.35,685,183,Android,1,0,54.44,Family Plan,TV Subscription
+CUST00215,41,Lite 4GB,2.82,201,474,Feature Phone,0,1,32.41,Family Plan,None
+CUST00521,41,Lite 4GB,12.52,1428,40,Android,1,0,79.84,Family Plan,Device Insurance
+CUST00206,42,Lite 4GB,4.56,226,79,iPhone,1,1,76.54,Standard 10GB,Device Insurance
+CUST00145,43,Lite 4GB,1.79,338,14,iPhone,0,1,36.6,Lite 4GB,None
+CUST00148,43,Lite 4GB,12.5,150,82,Android,0,1,42.46,Unlimited 20GB,None
+CUST00818,43,Lite 4GB,21.8,1355,365,Feature Phone,0,1,45.26,Standard 10GB,Device Insurance
+CUST00256,45,Lite 4GB,15.41,771,481,iPhone,1,0,79.25,Family Plan,Home Broadband
+CUST00693,45,Lite 4GB,9.92,1026,14,Android,1,0,67.26,Standard 10GB,Home Broadband
+CUST00971,45,Lite 4GB,13.08,1666,332,Feature Phone,0,0,37.49,Unlimited 20GB,Home Broadband
+CUST00123,46,Lite 4GB,16.22,807,87,iPhone,0,1,64.69,Unlimited 20GB,International Pack
+CUST00155,46,Lite 4GB,19.15,633,340,Feature Phone,0,1,32.43,Family Plan,International Pack
+CUST00427,46,Lite 4GB,19.79,398,323,iPhone,1,1,29.25,Unlimited 20GB,Device Insurance
+CUST00436,46,Lite 4GB,8.15,1691,412,Feature Phone,1,1,53.57,Family Plan,Device Insurance
+CUST00515,46,Lite 4GB,17.06,1127,258,Android,1,1,20.32,Lite 4GB,International Pack
+CUST00039,47,Lite 4GB,24.91,1469,332,Feature Phone,0,1,40.85,Unlimited 20GB,Home Broadband
+CUST00095,47,Lite 4GB,18.18,196,216,Android,1,0,65.49,Lite 4GB,None
+CUST00245,47,Lite 4GB,11.38,734,497,iPhone,0,1,97.46,Family Plan,International Pack
+CUST00350,47,Lite 4GB,18.74,1426,323,Feature Phone,1,0,97.75,Family Plan,Home Broadband
+CUST00189,49,Lite 4GB,11.16,1901,151,Android,1,1,78.84,Lite 4GB,TV Subscription
+CUST00981,49,Lite 4GB,13.59,1281,365,iPhone,1,0,43.97,Family Plan,None
+CUST00763,51,Lite 4GB,10.08,380,81,Android,1,1,63.19,Family Plan,Device Insurance
+CUST00434,52,Lite 4GB,9.82,1042,334,Feature Phone,0,0,63.63,Lite 4GB,International Pack
+CUST00454,52,Lite 4GB,24.44,878,113,Feature Phone,0,0,40.56,Family Plan,TV Subscription
+CUST00709,52,Lite 4GB,25.09,1708,193,iPhone,1,1,47.65,Family Plan,Device Insurance
+CUST00930,52,Lite 4GB,12.98,279,375,Feature Phone,1,0,19.2,Standard 10GB,Home Broadband
+CUST00553,53,Lite 4GB,16.46,1755,258,Feature Phone,0,0,38.22,Family Plan,None
+CUST00801,53,Lite 4GB,18.61,1503,165,Android,0,1,76.76,Lite 4GB,None
+CUST00079,54,Lite 4GB,26.91,1739,294,iPhone,1,0,53.84,Lite 4GB,Device Insurance
+CUST00171,54,Lite 4GB,27.87,928,362,Android,1,1,42.72,Unlimited 20GB,Device Insurance
+CUST00110,55,Lite 4GB,20.62,1160,462,Feature Phone,0,0,29.3,Standard 10GB,TV Subscription
+CUST00126,55,Lite 4GB,13.93,372,467,Feature Phone,1,0,51.71,Unlimited 20GB,TV Subscription
+CUST00406,57,Lite 4GB,13.39,213,284,Android,1,1,96.96,Unlimited 20GB,International Pack
+CUST00241,58,Lite 4GB,26.73,601,351,iPhone,0,1,86.29,Standard 10GB,Home Broadband
+CUST00246,60,Lite 4GB,17.61,1433,138,Feature Phone,1,0,57.54,Unlimited 20GB,None
+CUST00579,61,Lite 4GB,6.78,724,57,Android,1,0,32.18,Family Plan,Home Broadband
+CUST00707,61,Lite 4GB,19.78,775,204,Android,1,1,26.77,Unlimited 20GB,None
+CUST00966,61,Lite 4GB,25.38,1516,123,iPhone,0,1,59.58,Lite 4GB,TV Subscription
+CUST00985,61,Lite 4GB,9.54,1231,179,iPhone,1,1,17.06,Lite 4GB,International Pack
+CUST00293,62,Lite 4GB,10.59,1780,16,Android,0,0,67.4,Family Plan,International Pack
+CUST00003,63,Lite 4GB,8.2,1109,295,iPhone,0,1,62.79,Standard 10GB,None
+CUST00496,63,Lite 4GB,8.81,1429,330,Feature Phone,1,1,52.59,Family Plan,International Pack
+CUST00556,63,Lite 4GB,13.95,1487,182,Feature Phone,0,1,76.71,Unlimited 20GB,Device Insurance
+CUST00911,63,Lite 4GB,22.43,183,79,iPhone,0,0,93.42,Standard 10GB,None
+CUST00072,64,Lite 4GB,21.24,1698,429,Android,1,1,22.84,Family Plan,Home Broadband
+CUST00094,64,Lite 4GB,9.63,528,290,iPhone,0,1,19.5,Standard 10GB,Device Insurance
+CUST00953,64,Lite 4GB,2.34,883,86,iPhone,1,1,85.3,Unlimited 20GB,Home Broadband
+CUST00042,65,Lite 4GB,3.02,1291,459,iPhone,1,1,64.31,Standard 10GB,None
+CUST00082,66,Lite 4GB,5.08,988,163,Feature Phone,0,0,74.16,Standard 10GB,None
+CUST00154,66,Lite 4GB,24.62,1627,489,Android,0,1,31.2,Standard 10GB,TV Subscription
+CUST00631,66,Lite 4GB,29.59,1071,450,Android,0,1,82.9,Family Plan,International Pack
+CUST00880,66,Lite 4GB,8.08,1579,75,Android,0,1,69.79,Standard 10GB,None
+CUST00140,67,Lite 4GB,2.6,988,239,iPhone,0,1,84.04,Lite 4GB,None
+CUST00196,67,Lite 4GB,25.07,1529,381,iPhone,0,1,12.02,Lite 4GB,Home Broadband
+CUST00231,67,Lite 4GB,11.08,1191,96,iPhone,1,1,91.95,Family Plan,International Pack
+CUST00770,67,Lite 4GB,9.07,872,109,Feature Phone,1,1,58.83,Standard 10GB,Device Insurance
+CUST00908,67,Lite 4GB,27.48,1017,300,Android,0,1,22.86,Standard 10GB,International Pack
+CUST00809,68,Lite 4GB,8.53,160,271,iPhone,1,1,94.4,Unlimited 20GB,None
+CUST00109,69,Lite 4GB,24.06,509,147,Feature Phone,0,0,49.49,Standard 10GB,International Pack
+CUST00683,70,Lite 4GB,8.08,1698,429,iPhone,1,1,62.36,Lite 4GB,Device Insurance
+CUST00272,71,Lite 4GB,18.27,1001,439,Feature Phone,0,0,62.22,Lite 4GB,Home Broadband
+CUST00647,71,Lite 4GB,24.04,710,2,iPhone,1,1,15.76,Unlimited 20GB,International Pack
+CUST00664,71,Lite 4GB,16.73,863,196,Feature Phone,1,1,16.45,Lite 4GB,None
+CUST00794,71,Lite 4GB,22.49,1849,357,iPhone,1,1,84.57,Standard 10GB,TV Subscription
+CUST00968,72,Lite 4GB,9.56,1426,353,Feature Phone,0,0,46.91,Family Plan,Home Broadband
+CUST00594,73,Lite 4GB,18.33,1499,73,Android,0,0,77.37,Standard 10GB,None
+CUST00351,74,Lite 4GB,3.52,903,345,Feature Phone,1,0,22.94,Unlimited 20GB,TV Subscription
+CUST00640,74,Lite 4GB,19.79,998,232,Feature Phone,1,0,64.17,Unlimited 20GB,None
+CUST00654,74,Lite 4GB,13.73,892,63,iPhone,1,0,26.08,Unlimited 20GB,None
+CUST00662,75,Lite 4GB,3.61,1474,347,Feature Phone,1,1,16.15,Family Plan,Home Broadband
+CUST00558,76,Lite 4GB,1.29,1023,416,Android,1,0,64.18,Unlimited 20GB,None
+CUST00426,77,Lite 4GB,24.62,1917,39,iPhone,0,0,84.32,Family Plan,Home Broadband
+CUST00078,78,Lite 4GB,19.78,306,252,iPhone,0,1,85.97,Family Plan,International Pack
+CUST00365,78,Lite 4GB,12.66,597,208,Feature Phone,0,0,31.05,Family Plan,TV Subscription
+CUST00347,79,Lite 4GB,27.72,215,215,iPhone,0,0,60.34,Lite 4GB,None
+CUST00452,79,Lite 4GB,4.96,1196,435,Android,0,1,24.8,Unlimited 20GB,International Pack
+CUST00280,80,Lite 4GB,22.23,1652,289,iPhone,0,0,78.61,Unlimited 20GB,TV Subscription
+CUST00882,81,Lite 4GB,5.71,766,194,Android,0,1,12.92,Standard 10GB,None
+CUST00051,82,Lite 4GB,15.22,1377,127,Android,0,0,72.1,Family Plan,Device Insurance
+CUST00273,82,Lite 4GB,20.75,188,40,iPhone,0,1,17.82,Lite 4GB,TV Subscription
+CUST00924,82,Lite 4GB,19.73,1817,414,Android,0,0,16.04,Standard 10GB,None
+CUST00084,83,Lite 4GB,5.24,1552,334,iPhone,1,1,79.23,Lite 4GB,TV Subscription
+CUST00912,83,Lite 4GB,9.44,1323,151,iPhone,1,1,42.65,Family Plan,International Pack
+CUST00050,84,Lite 4GB,6.8,968,78,Android,0,0,25.08,Lite 4GB,International Pack
+CUST00587,84,Lite 4GB,12.93,1808,438,iPhone,1,1,36.1,Unlimited 20GB,Device Insurance
+CUST00633,84,Lite 4GB,20.79,249,419,Android,1,1,64.44,Standard 10GB,Device Insurance
+CUST00861,84,Lite 4GB,0.95,1300,264,Feature Phone,1,1,61.71,Unlimited 20GB,Device Insurance
+CUST00217,86,Lite 4GB,17.04,1763,357,Feature Phone,0,1,27.57,Lite 4GB,None
+CUST00963,86,Lite 4GB,17.52,1918,277,Feature Phone,0,0,39.66,Lite 4GB,TV Subscription
+CUST00044,87,Lite 4GB,15.13,1684,156,Android,0,1,14.63,Unlimited 20GB,Device Insurance
+CUST00112,87,Lite 4GB,11.84,829,346,iPhone,0,1,55.92,Family Plan,International Pack
+CUST00835,87,Lite 4GB,20.09,1383,150,Android,0,1,90.57,Lite 4GB,None
+CUST00976,87,Lite 4GB,22.35,376,301,iPhone,1,1,64.18,Family Plan,Device Insurance
+CUST00944,88,Lite 4GB,13.29,1362,312,iPhone,0,1,20.75,Lite 4GB,TV Subscription
+CUST00666,89,Lite 4GB,8.01,1490,188,Android,1,0,56.38,Unlimited 20GB,International Pack
+CUST00957,89,Lite 4GB,8.97,594,192,iPhone,0,1,91.72,Lite 4GB,Home Broadband
+CUST00444,90,Lite 4GB,27.68,1264,171,Feature Phone,1,0,89.22,Family Plan,Home Broadband
+CUST00685,92,Lite 4GB,6.05,1254,213,iPhone,0,1,95.47,Lite 4GB,None
+CUST00717,92,Lite 4GB,17.13,472,43,iPhone,0,1,28.41,Unlimited 20GB,Home Broadband
+CUST00028,93,Lite 4GB,11.59,179,86,Android,0,0,30.58,Unlimited 20GB,TV Subscription
+CUST00301,93,Lite 4GB,17.86,1792,51,Feature Phone,1,0,23.17,Standard 10GB,Home Broadband
+CUST00785,93,Lite 4GB,4.73,1117,55,iPhone,1,1,53.07,Family Plan,TV Subscription
+CUST00313,95,Lite 4GB,9.73,1722,342,Android,1,0,37.4,Lite 4GB,TV Subscription
+CUST00463,95,Lite 4GB,3.29,774,478,Feature Phone,0,1,27.58,Unlimited 20GB,Device Insurance
+CUST00026,96,Lite 4GB,27.36,213,79,Android,1,0,51.99,Lite 4GB,International Pack
+CUST00942,97,Lite 4GB,29.76,239,368,Feature Phone,0,1,80.38,Unlimited 20GB,TV Subscription
+CUST00088,98,Lite 4GB,1.93,1425,285,Feature Phone,0,1,44.84,Family Plan,TV Subscription
+CUST00532,98,Lite 4GB,12.46,1779,417,iPhone,1,0,80.21,Lite 4GB,Device Insurance
+CUST00603,98,Lite 4GB,20.54,1215,301,Android,1,0,70.74,Family Plan,International Pack
+CUST00386,99,Lite 4GB,8.01,320,313,iPhone,1,0,25.38,Family Plan,None
+CUST00474,99,Lite 4GB,22.39,1346,407,Android,0,1,42.75,Family Plan,Device Insurance
+CUST00520,99,Lite 4GB,22.16,1861,305,iPhone,0,1,13.49,Family Plan,Home Broadband
+CUST00815,99,Lite 4GB,22.97,711,27,Feature Phone,1,1,92.26,Standard 10GB,None
+CUST00169,100,Lite 4GB,17.9,1648,215,Android,1,1,56.21,Standard 10GB,International Pack
+CUST00099,101,Lite 4GB,8.43,1462,175,Android,0,1,49.85,Standard 10GB,International Pack
+CUST00151,101,Lite 4GB,26.63,1862,216,Android,0,0,70.75,Family Plan,Device Insurance
+CUST00228,101,Lite 4GB,7.19,1242,344,Feature Phone,1,1,68.6,Family Plan,TV Subscription
+CUST00137,102,Lite 4GB,29.42,667,327,Android,1,0,77.71,Lite 4GB,None
+CUST00374,102,Lite 4GB,19.65,942,18,iPhone,0,1,77.55,Unlimited 20GB,Home Broadband
+CUST00622,102,Lite 4GB,8.98,487,0,Android,0,1,53.24,Family Plan,Device Insurance
+CUST00451,103,Lite 4GB,22,1320,397,Android,0,0,41.34,Lite 4GB,International Pack
+CUST00507,103,Lite 4GB,15.55,819,409,Feature Phone,0,0,55.46,Family Plan,Device Insurance
+CUST00847,103,Lite 4GB,11.59,795,191,Android,0,0,20.17,Family Plan,International Pack
+CUST00834,105,Lite 4GB,16.03,105,465,Android,1,0,39.34,Lite 4GB,None
+CUST00207,106,Lite 4GB,26.09,1016,67,Feature Phone,0,0,23.72,Unlimited 20GB,International Pack
+CUST00542,107,Lite 4GB,18.86,1083,20,Android,1,0,23.92,Standard 10GB,Device Insurance
+CUST00607,107,Lite 4GB,3.41,87,377,iPhone,1,0,98.35,Family Plan,International Pack
+CUST00721,107,Lite 4GB,18.51,1868,171,Feature Phone,0,1,12.51,Family Plan,None
+CUST00790,107,Lite 4GB,13.63,545,155,Feature Phone,1,0,77.56,Family Plan,None
+CUST00843,107,Lite 4GB,7.75,810,217,iPhone,0,1,12.31,Standard 10GB,International Pack
+CUST00929,107,Lite 4GB,1.84,1576,437,Android,0,0,10.25,Lite 4GB,International Pack
+CUST00635,108,Lite 4GB,12.2,1183,299,Android,1,1,41.33,Family Plan,TV Subscription
+CUST00312,109,Lite 4GB,26.29,822,324,Android,0,0,10.73,Unlimited 20GB,International Pack
+CUST00740,109,Lite 4GB,16.21,217,144,Feature Phone,1,1,92.38,Lite 4GB,TV Subscription
+CUST00009,111,Lite 4GB,12.17,1709,413,Feature Phone,0,0,53.53,Unlimited 20GB,Device Insurance
+CUST00534,111,Lite 4GB,19.21,379,178,iPhone,0,0,36.76,Standard 10GB,TV Subscription
+CUST00005,112,Lite 4GB,25.42,1040,211,Android,1,1,79.44,Lite 4GB,Home Broadband
+CUST00049,112,Lite 4GB,8.26,306,449,iPhone,1,1,39.99,Lite 4GB,None
+CUST00104,112,Lite 4GB,19.35,1631,248,Android,1,0,95.09,Standard 10GB,TV Subscription
+CUST00299,112,Lite 4GB,8.9,1005,8,Feature Phone,1,0,20.62,Standard 10GB,International Pack
+CUST00359,112,Lite 4GB,17.32,1009,405,Feature Phone,1,0,83.39,Standard 10GB,None
+CUST00421,112,Lite 4GB,25.37,1358,439,Android,0,1,69.76,Standard 10GB,Device Insurance
+CUST00547,112,Lite 4GB,3.9,1669,73,Android,0,1,24.63,Family Plan,None
+CUST00638,112,Lite 4GB,26.29,902,243,Feature Phone,0,0,67.59,Lite 4GB,Home Broadband
+CUST00926,112,Lite 4GB,14.4,1207,95,iPhone,0,1,24.69,Standard 10GB,Home Broadband
+CUST00460,113,Lite 4GB,22.5,1549,354,iPhone,0,0,89.82,Unlimited 20GB,Device Insurance
+CUST00658,113,Lite 4GB,13.73,598,325,Android,1,0,81.34,Lite 4GB,Home Broadband
+CUST00873,114,Lite 4GB,8.92,1223,435,iPhone,0,1,94.31,Standard 10GB,Home Broadband
+CUST00824,115,Lite 4GB,9.37,1828,221,iPhone,1,0,62.34,Standard 10GB,Home Broadband
+CUST00089,117,Lite 4GB,16.66,1069,490,iPhone,1,0,55.05,Family Plan,International Pack
+CUST00889,117,Lite 4GB,11.26,1215,292,Feature Phone,1,0,57.43,Standard 10GB,Device Insurance
+CUST00362,118,Lite 4GB,18.88,1507,452,Feature Phone,1,1,68.72,Standard 10GB,TV Subscription
+CUST00233,119,Lite 4GB,7.95,588,136,Feature Phone,1,1,93.63,Standard 10GB,None
+CUST00061,120,Lite 4GB,8.84,1351,176,Feature Phone,1,0,32.83,Unlimited 20GB,International Pack
+CUST00083,120,Lite 4GB,15.68,1518,401,Android,1,0,59.16,Unlimited 20GB,None
+CUST00259,1,Standard 10GB,22.32,905,427,iPhone,0,1,12.39,Family Plan,Device Insurance
+CUST00382,1,Standard 10GB,13.35,333,261,Feature Phone,0,1,96.07,Standard 10GB,International Pack
+CUST00716,1,Standard 10GB,20.12,1136,373,Feature Phone,0,0,73.97,Family Plan,International Pack
+CUST00819,1,Standard 10GB,10.11,1207,119,iPhone,1,1,79.31,Lite 4GB,TV Subscription
+CUST00955,1,Standard 10GB,25.97,310,258,iPhone,1,1,96.78,Lite 4GB,Device Insurance
+CUST00146,2,Standard 10GB,6.4,1934,331,iPhone,0,1,52.68,Unlimited 20GB,Device Insurance
+CUST00468,4,Standard 10GB,3.68,828,124,Feature Phone,1,0,97.37,Lite 4GB,Device Insurance
+CUST00208,7,Standard 10GB,27.23,1383,181,Feature Phone,0,0,85.35,Family Plan,Home Broadband
+CUST00136,8,Standard 10GB,6.69,1293,152,Feature Phone,1,0,52.47,Family Plan,TV Subscription
+CUST00143,8,Standard 10GB,19.18,923,86,Feature Phone,1,1,56.56,Family Plan,Device Insurance
+CUST00348,8,Standard 10GB,5.24,733,26,Android,0,1,73.15,Lite 4GB,Device Insurance
+CUST00792,8,Standard 10GB,5.63,314,165,Feature Phone,0,1,28.32,Unlimited 20GB,None
+CUST00821,8,Standard 10GB,27.06,111,454,iPhone,1,0,79.62,Standard 10GB,None
+CUST00500,9,Standard 10GB,9.46,399,364,iPhone,1,0,88.03,Unlimited 20GB,None
+CUST00221,10,Standard 10GB,4.38,1120,369,Android,0,0,85.6,Standard 10GB,International Pack
+CUST00695,10,Standard 10GB,9.57,1338,374,Feature Phone,0,1,82.23,Lite 4GB,Device Insurance
+CUST00067,11,Standard 10GB,27.34,1916,265,Feature Phone,0,0,57.93,Unlimited 20GB,TV Subscription
+CUST00292,11,Standard 10GB,22.99,1974,176,Android,0,0,91.59,Lite 4GB,International Pack
+CUST00827,12,Standard 10GB,10.82,411,477,Feature Phone,1,1,38.03,Family Plan,None
+CUST00848,13,Standard 10GB,10.72,670,174,Android,1,1,26.61,Family Plan,Device Insurance
+CUST00856,13,Standard 10GB,2.8,1892,239,iPhone,0,0,67.66,Family Plan,Device Insurance
+CUST00538,14,Standard 10GB,23.19,739,104,Feature Phone,1,1,48.29,Unlimited 20GB,None
+CUST00497,15,Standard 10GB,1.32,390,133,Android,0,1,85.13,Lite 4GB,None
+CUST00038,16,Standard 10GB,8.07,1540,209,Android,0,0,43.44,Standard 10GB,Device Insurance
+CUST00637,16,Standard 10GB,0.57,1139,149,Android,0,1,36.83,Unlimited 20GB,TV Subscription
+CUST00699,16,Standard 10GB,24.64,51,190,Feature Phone,0,1,11.07,Unlimited 20GB,Home Broadband
+CUST00914,17,Standard 10GB,14.38,1862,366,iPhone,1,1,38.77,Family Plan,TV Subscription
+CUST00229,18,Standard 10GB,15.25,681,73,Android,1,1,44.7,Family Plan,TV Subscription
+CUST00562,19,Standard 10GB,19.53,1946,239,Android,1,0,17.69,Family Plan,None
+CUST00572,20,Standard 10GB,16.49,1767,7,Feature Phone,0,0,13.28,Standard 10GB,Home Broadband
+CUST00339,21,Standard 10GB,3.97,880,60,iPhone,0,0,16.63,Lite 4GB,TV Subscription
+CUST00714,21,Standard 10GB,22.07,1513,289,Feature Phone,0,0,79.95,Lite 4GB,Home Broadband
+CUST00947,21,Standard 10GB,7.5,1391,201,Feature Phone,1,0,71.27,Unlimited 20GB,Home Broadband
+CUST00394,22,Standard 10GB,23.41,931,227,Android,0,0,17.87,Family Plan,TV Subscription
+CUST00070,23,Standard 10GB,9.46,391,386,Feature Phone,1,1,73.21,Family Plan,Device Insurance
+CUST00307,23,Standard 10GB,8.97,1287,125,Android,1,0,38.86,Unlimited 20GB,International Pack
+CUST00473,23,Standard 10GB,6.65,1641,281,Feature Phone,0,0,59.67,Unlimited 20GB,TV Subscription
+CUST00808,23,Standard 10GB,12.35,1206,370,Feature Phone,0,1,69.32,Lite 4GB,None
+CUST00001,24,Standard 10GB,19.35,223,42,Android,0,0,93.69,Family Plan,Device Insurance
+CUST00476,24,Standard 10GB,10.85,811,359,Android,1,0,37.57,Lite 4GB,International Pack
+CUST00793,24,Standard 10GB,12.02,831,134,Feature Phone,1,1,40.25,Standard 10GB,None
+CUST00178,26,Standard 10GB,24.99,1663,71,iPhone,0,0,18.53,Unlimited 20GB,Home Broadband
+CUST00536,26,Standard 10GB,28.98,1008,192,Feature Phone,1,1,40.98,Lite 4GB,International Pack
+CUST00906,26,Standard 10GB,28.89,1879,155,Android,0,0,28.49,Family Plan,Home Broadband
+CUST00952,26,Standard 10GB,23.54,1569,474,iPhone,0,1,74.81,Lite 4GB,International Pack
+CUST00425,27,Standard 10GB,8.13,1070,142,Feature Phone,1,1,92.54,Standard 10GB,TV Subscription
+CUST00634,27,Standard 10GB,21.44,59,135,Android,1,0,85.7,Unlimited 20GB,TV Subscription
+CUST00986,27,Standard 10GB,2.49,395,86,Android,0,1,53.09,Lite 4GB,Home Broadband
+CUST00098,28,Standard 10GB,3.69,100,65,Android,0,0,91.43,Lite 4GB,None
+CUST00204,30,Standard 10GB,25.22,1414,359,Android,0,0,55.83,Unlimited 20GB,None
+CUST00689,30,Standard 10GB,7.03,1223,195,iPhone,0,0,40.15,Unlimited 20GB,Home Broadband
+CUST00115,32,Standard 10GB,7.05,1427,283,Android,1,1,84.09,Standard 10GB,Device Insurance
+CUST00752,32,Standard 10GB,15.66,179,416,Android,0,0,75.11,Standard 10GB,TV Subscription
+CUST00918,32,Standard 10GB,19.01,955,198,iPhone,0,0,92.55,Family Plan,Home Broadband
+CUST00951,32,Standard 10GB,22.35,1572,204,Android,0,1,51,Lite 4GB,TV Subscription
+CUST00991,32,Standard 10GB,11.96,590,35,iPhone,1,0,54.06,Standard 10GB,TV Subscription
+CUST00396,33,Standard 10GB,14.17,1638,468,iPhone,1,0,47.59,Lite 4GB,International Pack
+CUST00190,35,Standard 10GB,23.05,1676,11,iPhone,0,1,67.66,Lite 4GB,TV Subscription
+CUST00756,35,Standard 10GB,22.72,859,479,Feature Phone,0,1,97.29,Family Plan,TV Subscription
+CUST00865,35,Standard 10GB,25.63,592,265,iPhone,1,0,65.43,Standard 10GB,None
+CUST00149,36,Standard 10GB,17.81,979,324,Android,1,1,47.97,Standard 10GB,TV Subscription
+CUST00405,36,Standard 10GB,27.83,1970,100,iPhone,0,0,98,Family Plan,Device Insurance
+CUST00555,36,Standard 10GB,16.48,1741,354,iPhone,0,0,58.12,Lite 4GB,International Pack
+CUST00614,36,Standard 10GB,5.14,1936,498,Android,0,1,71.04,Lite 4GB,International Pack
+CUST00729,36,Standard 10GB,25.97,250,420,iPhone,1,0,98.61,Family Plan,None
+CUST00251,37,Standard 10GB,28.9,1160,205,iPhone,1,0,14.5,Family Plan,Home Broadband
+CUST00230,38,Standard 10GB,7.79,169,375,Android,1,0,51.84,Family Plan,None
+CUST00723,38,Standard 10GB,25.08,1716,90,iPhone,0,1,88.15,Lite 4GB,Home Broadband
+CUST00797,38,Standard 10GB,16.99,1324,457,Feature Phone,1,0,18.81,Family Plan,International Pack
+CUST00375,40,Standard 10GB,15.55,131,138,Feature Phone,1,0,59.99,Family Plan,Device Insurance
+CUST00576,40,Standard 10GB,21.39,1273,225,Android,1,1,34.5,Family Plan,Device Insurance
+CUST00580,40,Standard 10GB,6.76,1631,132,iPhone,1,1,42.28,Family Plan,International Pack
+CUST00725,40,Standard 10GB,13.05,946,191,Feature Phone,1,1,36.97,Lite 4GB,TV Subscription
+CUST00471,41,Standard 10GB,22.41,865,457,Android,0,0,100,Unlimited 20GB,None
+CUST00505,41,Standard 10GB,11.77,1998,254,Android,0,0,74.06,Lite 4GB,None
+CUST00885,41,Standard 10GB,21.94,928,255,Android,1,1,83.63,Lite 4GB,Device Insurance
+CUST00838,42,Standard 10GB,0.76,591,367,Android,1,0,94.82,Standard 10GB,None
+CUST00345,43,Standard 10GB,3.58,1788,97,Android,1,1,62.86,Family Plan,TV Subscription
+CUST00837,43,Standard 10GB,12.58,332,420,Android,0,0,25.39,Unlimited 20GB,None
+CUST00002,44,Standard 10GB,12.25,1308,179,Feature Phone,0,1,47.66,Unlimited 20GB,Device Insurance
+CUST00437,44,Standard 10GB,0.82,1887,151,Android,0,0,28.49,Family Plan,Home Broadband
+CUST00400,45,Standard 10GB,4.43,716,104,iPhone,1,0,86.05,Unlimited 20GB,TV Subscription
+CUST00828,46,Standard 10GB,4.48,799,13,iPhone,0,0,87.87,Family Plan,None
+CUST00844,47,Standard 10GB,27.47,946,454,Android,1,0,30.98,Lite 4GB,Home Broadband
+CUST00866,47,Standard 10GB,1.56,1457,78,iPhone,1,0,78.55,Family Plan,None
+CUST00950,47,Standard 10GB,9.03,1086,424,Feature Phone,0,0,82.04,Standard 10GB,None
+CUST00590,48,Standard 10GB,7.79,1970,425,Feature Phone,0,1,63.33,Unlimited 20GB,None
+CUST00543,49,Standard 10GB,10.87,145,451,Feature Phone,0,0,98.88,Unlimited 20GB,None
+CUST00653,49,Standard 10GB,18.88,1966,348,Feature Phone,0,0,12.67,Lite 4GB,International Pack
+CUST00191,50,Standard 10GB,4.63,1935,127,iPhone,1,1,48.66,Unlimited 20GB,Home Broadband
+CUST00371,50,Standard 10GB,9.67,711,47,Feature Phone,0,0,54.07,Lite 4GB,Home Broadband
+CUST00453,50,Standard 10GB,25.56,277,94,Android,0,1,75.88,Unlimited 20GB,TV Subscription
+CUST00478,50,Standard 10GB,16.96,784,325,Feature Phone,1,0,11.29,Standard 10GB,International Pack
+CUST00486,51,Standard 10GB,7.79,1055,499,iPhone,1,1,43.92,Lite 4GB,International Pack
+CUST00100,52,Standard 10GB,22.26,713,420,Android,0,0,23.38,Family Plan,Device Insurance
+CUST00106,53,Standard 10GB,11.22,273,362,Android,1,0,54.88,Unlimited 20GB,Home Broadband
+CUST00616,53,Standard 10GB,28.21,869,294,iPhone,1,1,23.82,Family Plan,Home Broadband
+CUST00648,54,Standard 10GB,22.62,275,184,Feature Phone,0,1,28.49,Standard 10GB,Device Insurance
+CUST00830,55,Standard 10GB,8.62,613,481,Android,0,0,37.59,Lite 4GB,Home Broadband
+CUST00978,55,Standard 10GB,23.4,1970,227,iPhone,1,0,19.51,Standard 10GB,TV Subscription
+CUST00243,56,Standard 10GB,12.13,1768,347,Feature Phone,1,0,84.93,Standard 10GB,Device Insurance
+CUST00969,56,Standard 10GB,15.05,1220,337,Android,0,0,16.92,Family Plan,None
+CUST00766,57,Standard 10GB,6.13,67,285,iPhone,0,1,95.2,Standard 10GB,International Pack
+CUST00690,58,Standard 10GB,6.14,1356,216,Android,0,0,13.22,Standard 10GB,None
+CUST00216,59,Standard 10GB,2.58,203,251,Feature Phone,1,0,10.01,Standard 10GB,International Pack
+CUST00237,59,Standard 10GB,19.18,1492,261,Feature Phone,0,1,56.36,Standard 10GB,Home Broadband
+CUST00336,59,Standard 10GB,6.06,957,358,Android,0,1,94.81,Standard 10GB,International Pack
+CUST00503,59,Standard 10GB,4.44,382,108,iPhone,0,1,49.73,Unlimited 20GB,TV Subscription
+CUST00133,60,Standard 10GB,3.46,98,120,Android,1,0,51.69,Lite 4GB,Device Insurance
+CUST00325,60,Standard 10GB,9.92,1919,10,Feature Phone,1,1,92.39,Standard 10GB,International Pack
+CUST00498,60,Standard 10GB,15.64,467,121,Android,0,1,64.87,Lite 4GB,TV Subscription
+CUST00851,60,Standard 10GB,29.25,647,316,Android,0,1,63.06,Unlimited 20GB,International Pack
+CUST00252,61,Standard 10GB,9.77,1171,336,iPhone,1,0,83.73,Lite 4GB,TV Subscription
+CUST00258,61,Standard 10GB,21.34,716,11,Feature Phone,1,0,16,Lite 4GB,None
+CUST00373,61,Standard 10GB,27.88,396,199,Feature Phone,0,1,17.74,Lite 4GB,None
+CUST00575,62,Standard 10GB,0.99,79,185,Feature Phone,1,0,18.9,Standard 10GB,International Pack
+CUST00913,62,Standard 10GB,6.99,373,42,iPhone,1,0,87.65,Family Plan,None
+CUST00297,63,Standard 10GB,1.42,847,443,iPhone,0,1,21.52,Unlimited 20GB,Home Broadband
+CUST00754,64,Standard 10GB,6.59,1706,373,Feature Phone,1,1,19.78,Lite 4GB,International Pack
+CUST00457,65,Standard 10GB,26.93,1330,17,Android,1,0,31.72,Unlimited 20GB,TV Subscription
+CUST00524,65,Standard 10GB,22.91,940,37,Feature Phone,1,0,89.53,Lite 4GB,Device Insurance
+CUST00569,65,Standard 10GB,11.13,962,344,Android,1,1,25.94,Lite 4GB,None
+CUST00895,65,Standard 10GB,25.23,1691,114,Android,1,1,26.12,Unlimited 20GB,None
+CUST00162,66,Standard 10GB,27.62,1370,469,Feature Phone,1,1,15.29,Standard 10GB,International Pack
+CUST00825,66,Standard 10GB,18.91,688,220,Android,1,0,86.02,Family Plan,Device Insurance
+CUST00829,66,Standard 10GB,0.92,843,17,iPhone,1,1,52.27,Family Plan,Home Broadband
+CUST00943,67,Standard 10GB,14.3,1583,342,iPhone,1,0,33.39,Standard 10GB,Device Insurance
+CUST00057,68,Standard 10GB,29.61,1939,260,Android,1,0,92.15,Standard 10GB,None
+CUST00264,68,Standard 10GB,23.52,918,124,Feature Phone,0,0,63.08,Family Plan,International Pack
+CUST00855,68,Standard 10GB,1.11,1680,252,Android,0,1,34.73,Unlimited 20GB,Device Insurance
+CUST00557,69,Standard 10GB,20.24,726,299,iPhone,0,1,21.78,Lite 4GB,None
+CUST00795,69,Standard 10GB,16.39,1286,225,Feature Phone,0,0,75.12,Lite 4GB,Device Insurance
+CUST00158,70,Standard 10GB,6.23,1523,376,Android,0,0,87.63,Lite 4GB,TV Subscription
+CUST00541,70,Standard 10GB,2.7,448,295,Android,0,0,54.68,Lite 4GB,TV Subscription
+CUST00014,72,Standard 10GB,16.88,1560,497,Android,1,1,26.59,Lite 4GB,Device Insurance
+CUST00212,72,Standard 10GB,3.32,1977,145,Android,1,0,88.64,Unlimited 20GB,Home Broadband
+CUST00413,72,Standard 10GB,27.1,415,474,iPhone,0,1,33.46,Family Plan,International Pack
+CUST00531,72,Standard 10GB,22.1,476,2,iPhone,1,0,75.64,Family Plan,Device Insurance
+CUST00046,73,Standard 10GB,22.47,389,27,Android,1,1,83.75,Lite 4GB,Home Broadband
+CUST00530,73,Standard 10GB,0.81,850,391,Feature Phone,1,1,11.35,Standard 10GB,None
+CUST00393,75,Standard 10GB,10.36,429,281,iPhone,1,0,75.82,Family Plan,Home Broadband
+CUST00958,75,Standard 10GB,28.42,53,93,iPhone,1,0,60.27,Unlimited 20GB,None
+CUST00225,76,Standard 10GB,12.73,1639,316,Feature Phone,0,0,60.99,Standard 10GB,Home Broadband
+CUST00282,76,Standard 10GB,3.45,1353,184,Android,1,1,81.64,Standard 10GB,TV Subscription
+CUST00533,76,Standard 10GB,16.55,1062,278,Feature Phone,0,1,24.92,Standard 10GB,International Pack
+CUST00751,76,Standard 10GB,8.64,1179,253,Feature Phone,0,0,38.91,Standard 10GB,None
+CUST00075,77,Standard 10GB,9.64,368,395,Feature Phone,0,0,96.18,Unlimited 20GB,Device Insurance
+CUST00135,77,Standard 10GB,14.93,894,162,Android,1,0,45.39,Lite 4GB,None
+CUST00220,77,Standard 10GB,11.59,588,374,Feature Phone,0,0,88.55,Family Plan,Device Insurance
+CUST00761,77,Standard 10GB,27.78,841,211,Feature Phone,1,1,81.35,Unlimited 20GB,None
+CUST00812,77,Standard 10GB,11.73,407,36,Feature Phone,0,1,59.52,Family Plan,None
+CUST00992,77,Standard 10GB,4.66,1190,311,iPhone,0,1,21.42,Family Plan,Device Insurance
+CUST00493,78,Standard 10GB,27,155,138,Feature Phone,0,1,68.29,Family Plan,International Pack
+CUST00701,79,Standard 10GB,19.59,935,167,Android,0,1,97.39,Standard 10GB,Home Broadband
+CUST00708,79,Standard 10GB,29.44,628,152,Feature Phone,0,1,84.91,Family Plan,Home Broadband
+CUST00975,79,Standard 10GB,11.32,1099,147,Feature Phone,0,0,69.13,Unlimited 20GB,TV Subscription
+CUST00529,80,Standard 10GB,3.15,839,126,iPhone,1,0,52.15,Standard 10GB,TV Subscription
+CUST00663,80,Standard 10GB,10.44,1590,280,Android,1,1,68.75,Unlimited 20GB,Home Broadband
+CUST00682,80,Standard 10GB,12.01,407,442,Feature Phone,0,0,15.08,Lite 4GB,Device Insurance
+CUST00056,81,Standard 10GB,28.5,583,306,Feature Phone,1,1,59.04,Standard 10GB,TV Subscription
+CUST00343,81,Standard 10GB,11.63,353,82,Feature Phone,1,0,66.65,Standard 10GB,Home Broadband
+CUST00571,81,Standard 10GB,16.4,328,122,Android,0,0,28.6,Family Plan,Home Broadband
+CUST00993,81,Standard 10GB,24.98,1172,460,Feature Phone,0,0,93.8,Family Plan,None
+CUST00077,82,Standard 10GB,20.74,1356,46,Feature Phone,1,1,49.98,Family Plan,None
+CUST00147,82,Standard 10GB,22.82,767,119,Feature Phone,0,0,56.51,Lite 4GB,None
+CUST00728,82,Standard 10GB,17.27,724,272,Feature Phone,0,1,22.57,Standard 10GB,None
+CUST00896,82,Standard 10GB,29.2,1639,237,Feature Phone,0,1,50.9,Unlimited 20GB,Home Broadband
+CUST00391,84,Standard 10GB,14.74,1305,42,Android,1,1,63.54,Standard 10GB,Home Broadband
+CUST00760,84,Standard 10GB,10.86,1724,7,iPhone,0,1,67.62,Unlimited 20GB,International Pack
+CUST00973,84,Standard 10GB,28.56,424,328,Android,0,0,44.09,Lite 4GB,International Pack
+CUST00016,85,Standard 10GB,3.74,1722,132,Feature Phone,1,1,35.74,Family Plan,Device Insurance
+CUST00561,85,Standard 10GB,23.51,197,208,Feature Phone,0,0,10.67,Lite 4GB,International Pack
+CUST00778,85,Standard 10GB,20.49,1484,357,Feature Phone,0,1,12.29,Lite 4GB,Home Broadband
+CUST00840,85,Standard 10GB,29.68,1928,237,iPhone,0,0,55.79,Unlimited 20GB,Device Insurance
+CUST00563,86,Standard 10GB,22.8,429,433,iPhone,0,0,82.33,Family Plan,None
+CUST00814,86,Standard 10GB,16.92,1487,14,Feature Phone,0,0,11.78,Standard 10GB,None
+CUST00244,87,Standard 10GB,2.35,1045,275,Android,1,0,62.87,Unlimited 20GB,Device Insurance
+CUST00320,87,Standard 10GB,28.07,1368,335,Feature Phone,1,0,72.05,Standard 10GB,Home Broadband
+CUST00617,88,Standard 10GB,10.48,716,227,Android,1,0,51.31,Lite 4GB,None
+CUST00211,89,Standard 10GB,13.81,969,325,Feature Phone,1,0,19.61,Lite 4GB,Device Insurance
+CUST00419,89,Standard 10GB,13.39,577,384,Android,0,1,73.23,Lite 4GB,Device Insurance
+CUST00941,89,Standard 10GB,22.5,1888,180,Android,1,1,22.14,Unlimited 20GB,TV Subscription
+CUST00764,90,Standard 10GB,2.09,1811,385,Android,0,0,37.68,Family Plan,TV Subscription
+CUST00920,90,Standard 10GB,27.08,375,423,iPhone,0,0,86.76,Unlimited 20GB,Device Insurance
+CUST00017,91,Standard 10GB,29.88,741,468,iPhone,1,0,38,Standard 10GB,International Pack
+CUST00326,91,Standard 10GB,7.94,276,370,Android,0,1,24.95,Standard 10GB,International Pack
+CUST00540,91,Standard 10GB,21.3,756,134,Android,1,1,12.67,Family Plan,TV Subscription
+CUST00358,92,Standard 10GB,21.14,705,49,iPhone,0,0,94.38,Family Plan,TV Subscription
+CUST00509,92,Standard 10GB,14.6,229,376,Android,1,1,95.83,Unlimited 20GB,TV Subscription
+CUST00232,93,Standard 10GB,10.44,227,30,Android,0,1,90.3,Family Plan,Home Broadband
+CUST00450,93,Standard 10GB,24.01,727,256,iPhone,1,0,66.61,Standard 10GB,International Pack
+CUST00868,93,Standard 10GB,2.57,168,318,Feature Phone,1,1,86.1,Standard 10GB,None
+CUST00887,93,Standard 10GB,22.28,1467,282,iPhone,0,1,85.4,Lite 4GB,None
+CUST00199,94,Standard 10GB,3.93,1121,365,Feature Phone,1,0,40.28,Family Plan,Home Broadband
+CUST00262,94,Standard 10GB,26.81,973,5,iPhone,0,0,71.7,Standard 10GB,TV Subscription
+CUST00341,94,Standard 10GB,24.61,468,361,iPhone,1,0,43.46,Lite 4GB,International Pack
+CUST00181,95,Standard 10GB,3.11,469,285,Feature Phone,1,1,59.98,Standard 10GB,International Pack
+CUST00318,96,Standard 10GB,24.68,297,451,Feature Phone,0,0,95.37,Standard 10GB,TV Subscription
+CUST00620,96,Standard 10GB,20.65,1042,435,Android,0,0,69.17,Family Plan,TV Subscription
+CUST00874,96,Standard 10GB,19.18,804,421,Feature Phone,1,1,14.93,Unlimited 20GB,TV Subscription
+CUST00504,97,Standard 10GB,20.42,1241,271,iPhone,0,0,26.42,Standard 10GB,Device Insurance
+CUST00589,97,Standard 10GB,1.56,1657,219,iPhone,1,0,93.46,Lite 4GB,Device Insurance
+CUST00519,98,Standard 10GB,4.26,1293,439,Android,0,0,95.14,Standard 10GB,Home Broadband
+CUST00630,98,Standard 10GB,19.58,1305,81,iPhone,1,0,71.19,Standard 10GB,Home Broadband
+CUST00327,99,Standard 10GB,20.47,980,30,Feature Phone,1,1,60.77,Standard 10GB,Device Insurance
+CUST00464,99,Standard 10GB,25.17,606,27,Android,0,0,88.33,Unlimited 20GB,TV Subscription
+CUST00645,99,Standard 10GB,3.32,665,42,iPhone,1,1,12.05,Unlimited 20GB,TV Subscription
+CUST00177,100,Standard 10GB,22.28,123,433,Feature Phone,1,1,98.42,Standard 10GB,Home Broadband
+CUST00551,100,Standard 10GB,22.79,369,320,Feature Phone,0,1,23.72,Standard 10GB,TV Subscription
+CUST00625,100,Standard 10GB,2.01,1946,360,Feature Phone,0,1,64.16,Family Plan,Device Insurance
+CUST00677,100,Standard 10GB,14.37,1938,482,Feature Phone,0,0,71.57,Family Plan,None
+CUST00842,100,Standard 10GB,6.06,1140,395,Feature Phone,0,0,38.59,Unlimited 20GB,TV Subscription
+CUST00915,100,Standard 10GB,27.62,737,416,Android,0,1,43.33,Unlimited 20GB,None
+CUST00655,101,Standard 10GB,25.51,1465,297,Feature Phone,0,1,97.61,Family Plan,International Pack
+CUST00719,101,Standard 10GB,4.59,1217,347,Feature Phone,0,0,27.91,Lite 4GB,TV Subscription
+CUST00150,102,Standard 10GB,11.14,546,354,iPhone,0,1,97.62,Family Plan,Home Broadband
+CUST00187,102,Standard 10GB,26.27,1138,73,Feature Phone,0,0,74.01,Unlimited 20GB,Home Broadband
+CUST00175,103,Standard 10GB,2.97,1637,173,iPhone,0,0,93.45,Unlimited 20GB,TV Subscription
+CUST00224,103,Standard 10GB,16.36,629,62,iPhone,0,1,48.17,Unlimited 20GB,TV Subscription
+CUST00261,103,Standard 10GB,17.44,652,372,Feature Phone,0,1,93.18,Family Plan,Home Broadband
+CUST00240,104,Standard 10GB,6.64,1279,351,iPhone,0,0,25.19,Lite 4GB,TV Subscription
+CUST00438,104,Standard 10GB,10.18,516,484,iPhone,1,0,99.91,Standard 10GB,Device Insurance
+CUST00788,104,Standard 10GB,2.62,1150,191,iPhone,1,0,54.68,Unlimited 20GB,Home Broadband
+CUST00904,104,Standard 10GB,1.82,894,216,Android,0,0,69.22,Unlimited 20GB,TV Subscription
+CUST00422,105,Standard 10GB,24.4,1178,420,Android,1,0,91.62,Lite 4GB,None
+CUST00275,106,Standard 10GB,27.63,1223,200,iPhone,1,1,14.52,Lite 4GB,TV Subscription
+CUST00686,106,Standard 10GB,12.09,468,358,Feature Phone,0,0,96.01,Lite 4GB,None
+CUST00119,107,Standard 10GB,4.92,1499,371,Feature Phone,0,0,76.81,Lite 4GB,International Pack
+CUST00128,107,Standard 10GB,6.58,935,248,iPhone,1,1,55.21,Unlimited 20GB,TV Subscription
+CUST00402,107,Standard 10GB,13.93,1123,35,iPhone,0,1,23.77,Lite 4GB,Device Insurance
+CUST00269,108,Standard 10GB,7.86,953,183,Android,1,0,82.09,Family Plan,Home Broadband
+CUST00691,108,Standard 10GB,24.74,1208,90,iPhone,0,0,40.38,Lite 4GB,TV Subscription
+CUST00970,108,Standard 10GB,0.66,982,11,iPhone,1,0,84.37,Lite 4GB,Device Insurance
+CUST00298,109,Standard 10GB,11.72,1210,375,Feature Phone,0,1,75.74,Family Plan,Home Broadband
+CUST00494,110,Standard 10GB,8,1074,360,Android,0,1,56.31,Standard 10GB,International Pack
+CUST00799,110,Standard 10GB,27.93,224,75,iPhone,1,1,74.43,Family Plan,TV Subscription
+CUST00172,114,Standard 10GB,4.77,815,298,Android,1,1,77.01,Family Plan,None
+CUST00200,114,Standard 10GB,19.37,344,37,Feature Phone,1,0,72.71,Lite 4GB,International Pack
+CUST00329,114,Standard 10GB,9.58,308,362,iPhone,0,1,28.51,Family Plan,International Pack
+CUST00447,114,Standard 10GB,5.71,187,179,Android,1,0,55.77,Lite 4GB,Home Broadband
+CUST00591,114,Standard 10GB,7.77,389,112,Android,0,0,24.5,Unlimited 20GB,None
+CUST00804,114,Standard 10GB,6.01,1531,153,Android,0,1,34.91,Unlimited 20GB,Device Insurance
+CUST00980,114,Standard 10GB,3.96,1433,270,iPhone,1,1,63.2,Unlimited 20GB,Home Broadband
+CUST00157,115,Standard 10GB,23.36,968,485,Android,0,1,16.11,Lite 4GB,Home Broadband
+CUST00202,115,Standard 10GB,3.25,1898,465,iPhone,0,1,64.22,Family Plan,Home Broadband
+CUST00697,115,Standard 10GB,7.95,1358,481,Feature Phone,0,0,70.77,Unlimited 20GB,International Pack
+CUST00852,115,Standard 10GB,7.3,1895,261,Feature Phone,1,1,22.06,Unlimited 20GB,Device Insurance
+CUST00979,115,Standard 10GB,6.31,1011,322,Feature Phone,1,0,16.06,Family Plan,Home Broadband
+CUST00309,116,Standard 10GB,17.58,334,294,iPhone,0,1,39.5,Family Plan,TV Subscription
+CUST00676,116,Standard 10GB,28.04,968,389,Feature Phone,0,0,88.84,Standard 10GB,None
+CUST00029,118,Standard 10GB,12.27,1466,375,iPhone,1,1,92.43,Lite 4GB,Home Broadband
+CUST00037,118,Standard 10GB,5.16,1706,98,Android,0,1,38.65,Standard 10GB,International Pack
+CUST00863,118,Standard 10GB,23.32,165,419,Feature Phone,1,0,40.5,Lite 4GB,International Pack
+CUST00052,120,Standard 10GB,1.3,585,491,iPhone,1,0,32.88,Family Plan,TV Subscription
+CUST00266,120,Standard 10GB,14.32,897,295,Feature Phone,0,0,23.2,Family Plan,None
+CUST00656,120,Standard 10GB,17.23,719,36,iPhone,0,1,45.84,Standard 10GB,Home Broadband
+CUST00033,1,Unlimited 20GB,9.36,1751,492,Android,0,1,40.09,Standard 10GB,None
+CUST00284,1,Unlimited 20GB,5.77,1957,155,iPhone,0,0,38.19,Unlimited 20GB,TV Subscription
+CUST00388,1,Unlimited 20GB,18.82,615,163,iPhone,0,1,66.52,Unlimited 20GB,None
+CUST00058,2,Unlimited 20GB,26.53,838,383,iPhone,1,1,32.8,Unlimited 20GB,None
+CUST00093,2,Unlimited 20GB,7.46,238,224,iPhone,1,1,25.15,Standard 10GB,International Pack
+CUST00130,3,Unlimited 20GB,11.67,1560,161,Feature Phone,0,0,48.34,Family Plan,Device Insurance
+CUST00250,3,Unlimited 20GB,8.04,371,353,Android,1,0,53.79,Family Plan,None
+CUST00585,3,Unlimited 20GB,22.87,1933,201,Android,1,0,72.01,Standard 10GB,TV Subscription
+CUST00091,4,Unlimited 20GB,3.07,986,59,Feature Phone,0,1,66.01,Standard 10GB,None
+CUST00759,4,Unlimited 20GB,22.18,1819,408,Feature Phone,0,1,56.83,Lite 4GB,International Pack
+CUST00879,5,Unlimited 20GB,21.84,961,434,Feature Phone,0,1,20.58,Lite 4GB,Device Insurance
+CUST00894,5,Unlimited 20GB,19.74,1348,339,Android,0,1,59.37,Family Plan,None
+CUST00036,7,Unlimited 20GB,5.61,601,74,Android,1,1,98.48,Family Plan,Device Insurance
+CUST00103,7,Unlimited 20GB,25.21,1286,451,iPhone,0,1,99.57,Family Plan,International Pack
+CUST00477,7,Unlimited 20GB,7.99,1988,2,Feature Phone,1,1,16.77,Family Plan,International Pack
+CUST00278,8,Unlimited 20GB,23.17,1877,494,Feature Phone,0,1,31.8,Lite 4GB,Device Insurance
+CUST00605,8,Unlimited 20GB,29.27,82,8,iPhone,1,1,45.72,Unlimited 20GB,TV Subscription
+CUST00782,8,Unlimited 20GB,23.7,1502,414,Android,0,0,59.87,Lite 4GB,International Pack
+CUST00369,9,Unlimited 20GB,5.47,735,6,Feature Phone,0,1,90.06,Unlimited 20GB,Home Broadband
+CUST00523,9,Unlimited 20GB,15.15,1379,211,Android,1,1,11.26,Standard 10GB,Home Broadband
+CUST00805,9,Unlimited 20GB,26.61,1892,61,Feature Phone,1,0,83.22,Family Plan,International Pack
+CUST00910,9,Unlimited 20GB,4.3,809,100,Feature Phone,0,1,14.48,Lite 4GB,Home Broadband
+CUST00279,10,Unlimited 20GB,5.49,1615,6,Feature Phone,1,0,72.87,Unlimited 20GB,Device Insurance
+CUST00892,10,Unlimited 20GB,4.21,309,354,iPhone,0,1,16.9,Family Plan,Device Insurance
+CUST00290,11,Unlimited 20GB,9.81,915,145,Feature Phone,1,1,49.42,Standard 10GB,Home Broadband
+CUST00372,11,Unlimited 20GB,16.94,705,25,Android,0,1,51.32,Unlimited 20GB,International Pack
+CUST00650,11,Unlimited 20GB,2.85,468,0,iPhone,0,0,20.3,Family Plan,None
+CUST00867,11,Unlimited 20GB,12.04,1108,232,Android,1,0,96.48,Lite 4GB,TV Subscription
+CUST00235,12,Unlimited 20GB,16.66,314,114,Feature Phone,1,1,76.29,Lite 4GB,Home Broadband
+CUST00430,12,Unlimited 20GB,23.57,368,155,iPhone,0,1,96.69,Unlimited 20GB,Device Insurance
+CUST00696,12,Unlimited 20GB,7.61,1121,4,iPhone,0,0,39.25,Unlimited 20GB,None
+CUST00086,14,Unlimited 20GB,20.71,653,3,iPhone,1,0,73.26,Standard 10GB,Device Insurance
+CUST00113,14,Unlimited 20GB,12.05,103,289,Feature Phone,1,1,28.19,Unlimited 20GB,International Pack
+CUST00132,14,Unlimited 20GB,7,1565,300,Android,1,1,71.92,Lite 4GB,TV Subscription
+CUST00636,14,Unlimited 20GB,18.62,1513,193,iPhone,1,1,81.47,Family Plan,Home Broadband
+CUST00916,14,Unlimited 20GB,8.11,1489,195,Feature Phone,0,1,51.21,Family Plan,TV Subscription
+CUST00053,15,Unlimited 20GB,19.06,1242,314,iPhone,0,1,56.19,Standard 10GB,None
+CUST00403,15,Unlimited 20GB,4.91,1809,435,Feature Phone,0,0,78.81,Lite 4GB,International Pack
+CUST00704,15,Unlimited 20GB,14.68,1539,293,Android,0,0,25.9,Family Plan,Device Insurance
+CUST00306,16,Unlimited 20GB,5.07,1104,234,Feature Phone,0,1,17.96,Unlimited 20GB,Device Insurance
+CUST00340,16,Unlimited 20GB,22.89,1793,102,Android,1,1,20.01,Standard 10GB,None
+CUST00011,17,Unlimited 20GB,7.82,1379,436,Feature Phone,0,0,82.33,Unlimited 20GB,International Pack
+CUST00608,17,Unlimited 20GB,26.57,1159,410,iPhone,1,1,96.82,Standard 10GB,International Pack
+CUST00414,18,Unlimited 20GB,13.78,965,214,Feature Phone,1,1,97.04,Lite 4GB,Home Broadband
+CUST00134,19,Unlimited 20GB,12.55,1566,354,Android,0,1,40.9,Unlimited 20GB,TV Subscription
+CUST00668,19,Unlimited 20GB,4.97,74,236,Android,1,0,60.32,Standard 10GB,None
+CUST00218,20,Unlimited 20GB,26.58,918,234,Feature Phone,0,0,34.24,Family Plan,International Pack
+CUST00624,21,Unlimited 20GB,12.41,809,410,Android,1,0,80.83,Lite 4GB,Device Insurance
+CUST00066,22,Unlimited 20GB,5.93,922,424,Android,1,1,53.59,Lite 4GB,TV Subscription
+CUST00085,22,Unlimited 20GB,4.74,113,443,Feature Phone,0,0,34.38,Unlimited 20GB,International Pack
+CUST00201,22,Unlimited 20GB,19.93,874,448,iPhone,1,1,62.68,Lite 4GB,Device Insurance
+CUST00295,22,Unlimited 20GB,22.03,799,144,Feature Phone,1,0,31.1,Lite 4GB,Home Broadband
+CUST00448,22,Unlimited 20GB,22.86,140,225,iPhone,0,0,85.21,Family Plan,TV Subscription
+CUST00459,22,Unlimited 20GB,23.56,71,432,Android,0,0,41.57,Lite 4GB,TV Subscription
+CUST00883,22,Unlimited 20GB,5.85,552,150,iPhone,0,1,44.77,Unlimited 20GB,None
+CUST00054,23,Unlimited 20GB,16.27,326,65,iPhone,1,1,64.81,Family Plan,International Pack
+CUST00769,23,Unlimited 20GB,14.48,1137,190,iPhone,0,0,84.33,Family Plan,None
+CUST00905,23,Unlimited 20GB,28.78,580,33,iPhone,1,1,52.34,Unlimited 20GB,International Pack
+CUST00684,24,Unlimited 20GB,17.47,1491,461,iPhone,1,1,16.01,Lite 4GB,None
+CUST00076,25,Unlimited 20GB,14.09,1985,275,Feature Phone,1,1,42.81,Standard 10GB,Device Insurance
+CUST00165,25,Unlimited 20GB,8.98,583,35,iPhone,0,1,42.5,Unlimited 20GB,None
+CUST00727,25,Unlimited 20GB,26.26,929,262,Android,0,1,29.27,Standard 10GB,Device Insurance
+CUST00166,26,Unlimited 20GB,9.04,1525,225,Android,0,1,46.95,Family Plan,Device Insurance
+CUST00937,27,Unlimited 20GB,25.02,501,6,Android,0,0,76.35,Family Plan,Device Insurance
+CUST00961,27,Unlimited 20GB,2.04,1178,102,Android,0,0,81.43,Family Plan,TV Subscription
+CUST00219,28,Unlimited 20GB,13.1,1061,56,iPhone,1,1,76.55,Lite 4GB,Home Broadband
+CUST00470,28,Unlimited 20GB,1.74,1744,315,Android,1,1,66.82,Family Plan,TV Subscription
+CUST00560,28,Unlimited 20GB,12.09,1588,274,Feature Phone,0,1,18.14,Family Plan,Device Insurance
+CUST00781,28,Unlimited 20GB,17.74,1634,332,iPhone,0,1,73.6,Lite 4GB,Device Insurance
+CUST00294,29,Unlimited 20GB,8.4,197,338,Feature Phone,1,0,24.37,Family Plan,TV Subscription
+CUST00111,30,Unlimited 20GB,27.47,1806,81,iPhone,0,0,38.46,Lite 4GB,Device Insurance
+CUST00420,30,Unlimited 20GB,25.11,940,93,Feature Phone,0,0,79.47,Standard 10GB,None
+CUST00574,31,Unlimited 20GB,26.25,1351,340,Feature Phone,1,0,44.21,Standard 10GB,International Pack
+CUST00578,31,Unlimited 20GB,5.15,260,259,Feature Phone,1,0,67.69,Unlimited 20GB,None
+CUST00678,31,Unlimited 20GB,9.13,1314,76,Android,1,1,54.88,Lite 4GB,International Pack
+CUST00949,31,Unlimited 20GB,9.72,1841,316,iPhone,1,0,16.35,Standard 10GB,TV Subscription
+CUST00410,32,Unlimited 20GB,8.53,1315,282,Feature Phone,0,1,33.32,Lite 4GB,TV Subscription
+CUST00702,32,Unlimited 20GB,11.16,1288,76,Android,0,0,66.96,Lite 4GB,Home Broadband
+CUST00670,33,Unlimited 20GB,28.12,363,335,Android,1,0,61.51,Lite 4GB,Device Insurance
+CUST00776,34,Unlimited 20GB,4.2,1915,55,iPhone,1,1,24.6,Family Plan,International Pack
+CUST00777,34,Unlimited 20GB,4.01,713,305,Feature Phone,1,0,16.14,Standard 10GB,TV Subscription
+CUST00733,35,Unlimited 20GB,22.01,977,363,iPhone,1,0,78.26,Family Plan,TV Subscription
+CUST00415,36,Unlimited 20GB,4.55,1254,248,Android,0,1,11.96,Lite 4GB,None
+CUST00705,36,Unlimited 20GB,8.04,616,143,iPhone,1,1,88.81,Family Plan,International Pack
+CUST00807,36,Unlimited 20GB,27.91,1222,190,iPhone,1,0,72.95,Standard 10GB,Home Broadband
+CUST00174,37,Unlimited 20GB,13.26,1453,286,Feature Phone,1,1,50.39,Unlimited 20GB,International Pack
+CUST00743,37,Unlimited 20GB,28.94,707,499,iPhone,1,1,62.3,Unlimited 20GB,TV Subscription
+CUST00749,37,Unlimited 20GB,7.94,1953,91,iPhone,1,0,72.01,Lite 4GB,Device Insurance
+CUST00772,37,Unlimited 20GB,14.2,841,260,Android,0,1,38.24,Unlimited 20GB,Device Insurance
+CUST00774,37,Unlimited 20GB,10.82,926,29,Feature Phone,0,0,73.99,Lite 4GB,Home Broadband
+CUST00983,37,Unlimited 20GB,5.25,944,229,Android,0,0,79.19,Standard 10GB,International Pack
+CUST00621,39,Unlimited 20GB,27.36,239,64,Android,1,0,70.96,Unlimited 20GB,Home Broadband
+CUST00131,40,Unlimited 20GB,19.56,254,490,Android,1,0,19.13,Family Plan,None
+CUST00428,40,Unlimited 20GB,18.9,389,217,iPhone,1,1,37.43,Standard 10GB,TV Subscription
+CUST00665,40,Unlimited 20GB,27.43,1101,71,Feature Phone,1,1,58.53,Family Plan,TV Subscription
+CUST00687,40,Unlimited 20GB,29.46,78,449,Feature Phone,1,1,67.99,Unlimited 20GB,International Pack
+CUST00948,41,Unlimited 20GB,10.59,467,377,Android,0,1,42.01,Family Plan,International Pack
+CUST00518,42,Unlimited 20GB,25.43,435,273,iPhone,0,1,93.12,Unlimited 20GB,None
+CUST00015,43,Unlimited 20GB,8.02,1232,282,iPhone,0,0,27.42,Unlimited 20GB,Device Insurance
+CUST00153,44,Unlimited 20GB,17.9,1368,175,Feature Phone,0,1,48.32,Unlimited 20GB,Device Insurance
+CUST00253,45,Unlimited 20GB,24.06,1171,204,Feature Phone,0,1,20.15,Family Plan,None
+CUST00623,45,Unlimited 20GB,24.68,54,168,Android,0,1,72.44,Standard 10GB,Device Insurance
+CUST00899,45,Unlimited 20GB,5.29,761,305,Feature Phone,1,1,59.04,Standard 10GB,International Pack
+CUST00338,46,Unlimited 20GB,17.81,1048,373,Android,1,0,10.99,Standard 10GB,Device Insurance
+CUST00302,48,Unlimited 20GB,21.91,240,368,iPhone,0,1,21.31,Unlimited 20GB,None
+CUST00724,48,Unlimited 20GB,9.6,578,203,Feature Phone,1,1,22.21,Lite 4GB,None
+CUST00780,49,Unlimited 20GB,15.3,451,464,iPhone,0,1,59.96,Standard 10GB,None
+CUST00884,49,Unlimited 20GB,21.82,1220,465,iPhone,1,1,76.29,Lite 4GB,Home Broadband
+CUST00226,51,Unlimited 20GB,16.52,791,241,Feature Phone,0,1,76.73,Standard 10GB,Home Broadband
+CUST00357,51,Unlimited 20GB,6.98,958,178,iPhone,1,1,79.59,Unlimited 20GB,Device Insurance
+CUST00564,51,Unlimited 20GB,3.45,519,192,Android,0,0,74.65,Lite 4GB,Device Insurance
+CUST00730,51,Unlimited 20GB,22.64,1236,465,iPhone,0,0,38.32,Family Plan,Device Insurance
+CUST00242,52,Unlimited 20GB,21.8,814,489,Feature Phone,0,1,53.9,Unlimited 20GB,Device Insurance
+CUST00554,52,Unlimited 20GB,21.64,777,484,Android,1,1,92.85,Family Plan,International Pack
+CUST00567,52,Unlimited 20GB,20.47,142,363,iPhone,1,0,66.34,Unlimited 20GB,Device Insurance
+CUST00586,52,Unlimited 20GB,11.46,1472,204,iPhone,0,1,65.81,Family Plan,TV Subscription
+CUST00932,52,Unlimited 20GB,21.74,1741,460,Feature Phone,1,0,68.47,Standard 10GB,TV Subscription
+CUST00936,53,Unlimited 20GB,8.28,245,246,Android,1,0,96.51,Family Plan,International Pack
+CUST00982,53,Unlimited 20GB,0.53,603,361,Android,0,1,58.92,Unlimited 20GB,International Pack
+CUST00096,54,Unlimited 20GB,20.28,1941,19,Feature Phone,0,0,13.54,Lite 4GB,TV Subscription
+CUST00222,54,Unlimited 20GB,26.89,540,100,Feature Phone,0,0,15.31,Standard 10GB,Device Insurance
+CUST00404,54,Unlimited 20GB,1.94,152,39,Android,1,0,70.5,Standard 10GB,International Pack
+CUST00090,55,Unlimited 20GB,28.94,790,93,Feature Phone,0,0,46.37,Lite 4GB,International Pack
+CUST00173,55,Unlimited 20GB,14.24,1670,81,Feature Phone,0,0,48.39,Unlimited 20GB,Home Broadband
+CUST00502,55,Unlimited 20GB,10.65,1105,302,iPhone,0,1,15.39,Lite 4GB,International Pack
+CUST00184,56,Unlimited 20GB,12.17,812,449,Android,0,0,89.06,Family Plan,Device Insurance
+CUST00271,57,Unlimited 20GB,7.34,1938,300,Feature Phone,1,0,97.76,Unlimited 20GB,Home Broadband
+CUST00726,57,Unlimited 20GB,12.55,934,274,Feature Phone,1,0,32.47,Standard 10GB,Home Broadband
+CUST00747,57,Unlimited 20GB,21.04,1854,334,Android,0,0,87.33,Unlimited 20GB,Home Broadband
+CUST00289,58,Unlimited 20GB,3.1,141,387,iPhone,1,1,82.17,Family Plan,International Pack
+CUST00435,58,Unlimited 20GB,19.5,1747,389,Android,0,1,42.68,Standard 10GB,Device Insurance
+CUST00669,58,Unlimited 20GB,23.49,103,178,iPhone,1,0,40.11,Standard 10GB,None
+CUST00917,58,Unlimited 20GB,23.87,328,316,Android,1,1,99.51,Standard 10GB,Home Broadband
+CUST00646,61,Unlimited 20GB,6.5,385,66,Android,1,1,84.36,Lite 4GB,Home Broadband
+CUST00170,62,Unlimited 20GB,4.76,1170,47,iPhone,1,0,75.39,Family Plan,Home Broadband
+CUST00287,62,Unlimited 20GB,3.51,567,140,Android,0,0,39.22,Lite 4GB,TV Subscription
+CUST00528,62,Unlimited 20GB,6.11,1695,474,Android,1,0,69.54,Unlimited 20GB,Home Broadband
+CUST00626,62,Unlimited 20GB,17.08,1079,441,Android,1,1,13.59,Family Plan,None
+CUST00869,62,Unlimited 20GB,20.93,680,57,iPhone,0,1,19.48,Family Plan,International Pack
+CUST00087,63,Unlimited 20GB,26.54,1379,400,iPhone,1,1,24.92,Standard 10GB,Device Insurance
+CUST00182,63,Unlimited 20GB,27.77,1120,107,Feature Phone,0,1,56.18,Unlimited 20GB,None
+CUST00416,63,Unlimited 20GB,23.57,151,229,Android,0,0,41.91,Standard 10GB,International Pack
+CUST00263,64,Unlimited 20GB,18.41,864,77,iPhone,1,0,30.23,Standard 10GB,None
+CUST00810,64,Unlimited 20GB,6.92,1039,332,Android,0,1,16.09,Lite 4GB,Device Insurance
+CUST00007,65,Unlimited 20GB,27.53,943,5,Android,1,0,86.67,Standard 10GB,International Pack
+CUST00839,65,Unlimited 20GB,4.19,244,307,iPhone,1,1,40.82,Unlimited 20GB,International Pack
+CUST00161,66,Unlimited 20GB,2.37,1212,457,Feature Phone,1,1,26.09,Unlimited 20GB,Device Insurance
+CUST00753,66,Unlimited 20GB,19.73,152,252,iPhone,0,1,71.12,Lite 4GB,TV Subscription
+CUST00773,66,Unlimited 20GB,13.42,647,287,Feature Phone,0,0,83.2,Unlimited 20GB,None
+CUST00080,68,Unlimited 20GB,7.44,1143,210,iPhone,0,1,33.78,Unlimited 20GB,None
+CUST00311,68,Unlimited 20GB,29.98,186,195,iPhone,0,0,91.49,Unlimited 20GB,Device Insurance
+CUST00545,68,Unlimited 20GB,12.59,57,306,Feature Phone,0,0,82.06,Unlimited 20GB,TV Subscription
+CUST00956,68,Unlimited 20GB,4.38,939,174,Android,0,1,96.71,Unlimited 20GB,None
+CUST00071,70,Unlimited 20GB,11.91,1222,244,Feature Phone,1,0,26.36,Lite 4GB,TV Subscription
+CUST00277,70,Unlimited 20GB,3.27,687,132,iPhone,0,0,33.91,Lite 4GB,Device Insurance
+CUST00742,70,Unlimited 20GB,17.34,1639,485,Feature Phone,0,0,17.71,Family Plan,TV Subscription
+CUST00183,71,Unlimited 20GB,6.43,528,463,Android,1,1,71.3,Standard 10GB,Device Insurance
+CUST00954,71,Unlimited 20GB,4.98,405,254,Android,0,0,51.18,Standard 10GB,TV Subscription
+CUST00962,71,Unlimited 20GB,5.81,1712,282,Feature Phone,0,1,63.52,Standard 10GB,International Pack
+CUST00332,72,Unlimited 20GB,14.3,92,176,Android,1,0,93.02,Standard 10GB,Home Broadband
+CUST00389,72,Unlimited 20GB,19.98,355,479,Android,1,0,63.89,Standard 10GB,International Pack
+CUST00577,72,Unlimited 20GB,25.45,924,253,Android,0,1,88.46,Unlimited 20GB,TV Subscription
+CUST00333,73,Unlimited 20GB,7.33,448,98,Feature Phone,1,1,71.36,Lite 4GB,None
+CUST00559,73,Unlimited 20GB,22.23,582,341,Feature Phone,0,0,87.32,Lite 4GB,None
+CUST00672,73,Unlimited 20GB,21.26,559,186,Android,1,0,74.7,Lite 4GB,TV Subscription
+CUST00935,73,Unlimited 20GB,0.71,376,344,Android,0,1,75.83,Lite 4GB,International Pack
+CUST00074,74,Unlimited 20GB,13.31,1594,415,Feature Phone,1,0,58.05,Family Plan,Home Broadband
+CUST00549,74,Unlimited 20GB,7.68,1754,198,Feature Phone,0,0,59.26,Standard 10GB,Device Insurance
+CUST00898,74,Unlimited 20GB,15.54,1084,20,Feature Phone,0,0,43.67,Family Plan,TV Subscription
+CUST00260,75,Unlimited 20GB,16.92,1784,453,iPhone,1,0,75.92,Family Plan,Device Insurance
+CUST00065,76,Unlimited 20GB,18.02,68,46,iPhone,1,0,37.76,Family Plan,Home Broadband
+CUST00581,76,Unlimited 20GB,15.24,786,171,iPhone,0,0,52.89,Standard 10GB,Device Insurance
+CUST00195,77,Unlimited 20GB,26.65,1440,67,iPhone,0,1,48.59,Unlimited 20GB,TV Subscription
+CUST00461,77,Unlimited 20GB,11.76,1443,163,Android,1,0,59.7,Standard 10GB,TV Subscription
+CUST00738,77,Unlimited 20GB,25.46,1276,488,iPhone,0,0,43.38,Unlimited 20GB,TV Subscription
+CUST00209,78,Unlimited 20GB,24.98,990,333,Feature Phone,0,0,93.18,Standard 10GB,None
+CUST00383,78,Unlimited 20GB,29.95,1335,301,iPhone,0,1,37.22,Lite 4GB,Device Insurance
+CUST00922,78,Unlimited 20GB,27.88,1915,184,Android,0,0,75.1,Lite 4GB,None
+CUST00928,78,Unlimited 20GB,26.47,1641,229,iPhone,0,1,82.48,Lite 4GB,TV Subscription
+CUST00248,80,Unlimited 20GB,22.8,391,199,Android,0,1,87.05,Lite 4GB,None
+CUST00488,80,Unlimited 20GB,12.54,264,333,Feature Phone,1,0,19.49,Standard 10GB,Device Insurance
+CUST00526,81,Unlimited 20GB,3.49,1321,181,Feature Phone,0,0,94.55,Lite 4GB,None
+CUST00604,83,Unlimited 20GB,6.45,1353,105,Android,1,1,87.72,Unlimited 20GB,International Pack
+CUST00649,83,Unlimited 20GB,9.17,110,301,iPhone,0,0,49.43,Standard 10GB,Device Insurance
+CUST00040,84,Unlimited 20GB,29.46,62,288,Feature Phone,1,0,44.59,Standard 10GB,Device Insurance
+CUST00765,85,Unlimited 20GB,29.43,890,93,iPhone,1,1,70.19,Standard 10GB,None
+CUST00775,85,Unlimited 20GB,21.06,1173,150,Feature Phone,0,1,42.9,Standard 10GB,None
+CUST00901,85,Unlimited 20GB,22.57,1613,346,iPhone,1,0,89.68,Family Plan,None
+CUST00030,86,Unlimited 20GB,6.99,1794,34,iPhone,1,1,91.16,Lite 4GB,Home Broadband
+CUST00826,86,Unlimited 20GB,24.85,373,221,iPhone,1,1,12.31,Lite 4GB,None
+CUST00877,86,Unlimited 20GB,6,1744,5,Feature Phone,0,1,19.67,Family Plan,Device Insurance
+CUST00945,86,Unlimited 20GB,21.46,328,140,iPhone,1,1,10.17,Family Plan,Device Insurance
+CUST00429,87,Unlimited 20GB,25.05,489,283,iPhone,0,1,96.19,Standard 10GB,None
+CUST00796,88,Unlimited 20GB,21.79,238,268,Feature Phone,1,0,99.12,Unlimited 20GB,Device Insurance
+CUST00802,88,Unlimited 20GB,24.68,967,496,iPhone,1,1,72,Lite 4GB,Device Insurance
+CUST00210,90,Unlimited 20GB,9.24,920,209,iPhone,1,1,38.32,Lite 4GB,International Pack
+CUST00361,91,Unlimited 20GB,24.35,569,372,Feature Phone,0,1,53.62,Family Plan,International Pack
+CUST00431,91,Unlimited 20GB,14.44,1107,10,iPhone,0,1,20.89,Family Plan,Device Insurance
+CUST00475,91,Unlimited 20GB,25.31,1840,261,iPhone,0,1,82.26,Unlimited 20GB,None
+CUST00525,91,Unlimited 20GB,17.45,1288,275,Android,0,0,87.9,Family Plan,Device Insurance
+CUST00615,91,Unlimited 20GB,3.67,610,5,iPhone,0,1,13.93,Standard 10GB,Home Broadband
+CUST00720,91,Unlimited 20GB,1.27,1297,275,iPhone,1,1,60.28,Family Plan,TV Subscription
+CUST00159,92,Unlimited 20GB,8.12,1851,108,Android,0,0,94.03,Standard 10GB,Device Insurance
+CUST00467,92,Unlimited 20GB,15.3,406,187,Feature Phone,0,0,30.89,Lite 4GB,International Pack
+CUST00440,93,Unlimited 20GB,22.7,1730,211,Android,1,1,41.85,Lite 4GB,TV Subscription
+CUST00449,93,Unlimited 20GB,12.46,517,221,Android,0,0,64.1,Standard 10GB,Device Insurance
+CUST00612,94,Unlimited 20GB,26.74,1133,298,Feature Phone,0,1,26.27,Unlimited 20GB,Device Insurance
+CUST00787,94,Unlimited 20GB,17.18,398,327,iPhone,1,1,54.54,Family Plan,Device Insurance
+CUST00800,95,Unlimited 20GB,28.37,78,321,Feature Phone,0,0,89.12,Unlimited 20GB,International Pack
+CUST00045,96,Unlimited 20GB,14.07,1644,79,iPhone,1,0,36.48,Standard 10GB,TV Subscription
+CUST00859,96,Unlimited 20GB,15.11,124,93,Feature Phone,1,1,94.33,Standard 10GB,International Pack
+CUST00674,98,Unlimited 20GB,16.82,1423,16,iPhone,0,1,66.78,Lite 4GB,TV Subscription
+CUST00791,98,Unlimited 20GB,10.24,756,189,Android,0,1,75.21,Lite 4GB,None
+CUST00831,98,Unlimited 20GB,8.8,966,494,Feature Phone,0,1,35.04,Lite 4GB,None
+CUST00846,98,Unlimited 20GB,1.53,625,431,Android,1,0,83.77,Family Plan,International Pack
+CUST00424,100,Unlimited 20GB,22.34,160,45,Feature Phone,1,1,31.36,Standard 10GB,None
+CUST00712,101,Unlimited 20GB,13.22,1074,427,Feature Phone,0,1,77.79,Standard 10GB,Home Broadband
+CUST00734,101,Unlimited 20GB,10.11,1888,216,iPhone,0,1,31.48,Family Plan,Device Insurance
+CUST00997,101,Unlimited 20GB,1.63,1042,430,Feature Phone,0,0,48.39,Lite 4GB,None
+CUST00205,102,Unlimited 20GB,10.64,391,444,Feature Phone,0,1,25.22,Standard 10GB,Home Broadband
+CUST00368,102,Unlimited 20GB,23.86,409,407,Feature Phone,0,1,57.57,Lite 4GB,Device Insurance
+CUST00462,103,Unlimited 20GB,1.19,898,230,Android,1,1,60.81,Lite 4GB,None
+CUST00758,103,Unlimited 20GB,0.6,531,258,Android,0,0,75.82,Standard 10GB,Home Broadband
+CUST00296,104,Unlimited 20GB,0.58,547,307,Android,1,0,87.65,Lite 4GB,Home Broadband
+CUST00360,104,Unlimited 20GB,12.48,80,157,Android,0,0,56.91,Family Plan,None
+CUST00288,106,Unlimited 20GB,11.19,1147,142,Android,1,1,41.11,Family Plan,TV Subscription
+CUST00644,106,Unlimited 20GB,16.82,336,218,Feature Phone,0,1,76.84,Family Plan,Home Broadband
+CUST00675,106,Unlimited 20GB,1.76,1492,381,iPhone,1,1,14.65,Unlimited 20GB,None
+CUST00062,108,Unlimited 20GB,22.03,1349,50,Feature Phone,0,1,97.25,Unlimited 20GB,TV Subscription
+CUST00179,108,Unlimited 20GB,6.37,847,292,iPhone,1,0,48.27,Unlimited 20GB,None
+CUST00610,108,Unlimited 20GB,19.79,1096,469,iPhone,1,1,56.84,Unlimited 20GB,Device Insurance
+CUST00713,108,Unlimited 20GB,26.91,492,59,Android,1,1,73.51,Family Plan,TV Subscription
+CUST00322,109,Unlimited 20GB,15.54,1579,64,Android,0,1,64.19,Standard 10GB,International Pack
+CUST00539,109,Unlimited 20GB,13.35,612,159,Android,0,0,90.76,Family Plan,International Pack
+CUST00784,109,Unlimited 20GB,3.48,1505,210,Feature Phone,0,0,57.35,Unlimited 20GB,TV Subscription
+CUST00811,109,Unlimited 20GB,1.35,2000,410,iPhone,0,0,57.72,Family Plan,None
+CUST00927,109,Unlimited 20GB,27.56,1005,89,Android,0,1,96.52,Standard 10GB,None
+CUST00939,109,Unlimited 20GB,3.95,938,221,Android,1,1,75.49,Standard 10GB,Device Insurance
+CUST00349,110,Unlimited 20GB,29.98,1601,119,iPhone,1,1,67.97,Family Plan,International Pack
+CUST00600,110,Unlimited 20GB,15.68,1557,143,Feature Phone,1,0,89.83,Unlimited 20GB,Home Broadband
+CUST00871,110,Unlimited 20GB,29.76,1237,210,Feature Phone,0,0,48.06,Unlimited 20GB,None
+CUST00059,111,Unlimited 20GB,24.2,1152,478,iPhone,1,1,38.88,Unlimited 20GB,Home Broadband
+CUST00786,111,Unlimited 20GB,23.06,541,397,Feature Phone,0,1,81.57,Lite 4GB,TV Subscription
+CUST00490,112,Unlimited 20GB,6.65,1647,403,Feature Phone,0,1,66.65,Unlimited 20GB,Home Broadband
+CUST00925,112,Unlimited 20GB,15.75,1601,321,iPhone,0,0,75.56,Family Plan,TV Subscription
+CUST00144,113,Unlimited 20GB,28.82,817,37,iPhone,1,0,59.65,Standard 10GB,None
+CUST00257,113,Unlimited 20GB,5.25,520,491,iPhone,0,1,48.62,Lite 4GB,Home Broadband
+CUST00744,113,Unlimited 20GB,23.33,246,61,iPhone,1,1,77.19,Unlimited 20GB,Home Broadband
+CUST00878,114,Unlimited 20GB,7.27,733,351,Android,1,1,32.16,Unlimited 20GB,Device Insurance
+CUST00994,115,Unlimited 20GB,22.59,1020,50,Android,1,1,37.39,Unlimited 20GB,None
+CUST00974,116,Unlimited 20GB,27.6,1073,435,iPhone,0,1,67.03,Standard 10GB,Home Broadband
+CUST00035,117,Unlimited 20GB,18.39,371,186,iPhone,1,1,41.87,Standard 10GB,TV Subscription
+CUST00193,117,Unlimited 20GB,7.69,1242,397,Android,1,0,15.12,Lite 4GB,Device Insurance
+CUST00703,118,Unlimited 20GB,10.29,1283,471,Android,1,1,69.64,Lite 4GB,Home Broadband
+CUST00364,119,Unlimited 20GB,8.33,1880,167,iPhone,0,0,56.25,Lite 4GB,International Pack

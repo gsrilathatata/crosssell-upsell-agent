@@ -1,0 +1,10 @@
+plan_name,plan_type,eligible_addon,summary,total_price,tax_amount,plan_price
+Family Plan,plan,"Home Broadband, International Pack,TV Subscription,OTT subscription","Perfect for families, this plan offers shared data across up to 5 lines, unlimited nationwide calling, family safety features, and a complimentary subscription to a family entertainment bundle.",100,10,90
+Lite 4GB,plan,International Pack,"Affordable plan with 4GB of high-speed data, unlimited texts, and 500 minutes of talk time. Best suited for light users and students.",30,3,27
+Standard 10GB,plan,"International Pack,OTT subscription","Balanced plan with 10GB of high-speed data, unlimited calls and texts, and rollover data. Great for moderate users who want value and flexibility.",50,5,45
+Unlimited 20GB,plan,"International Pack,TV Subscription,OTT subscription,Device Insurance","Enjoy unlimited talk, text, and 20GB of high-speed data. Includes hotspot capability, 5G access, and premium customer support. Ideal for heavy data users.",80,8,72
+OTT subscription,addon,None,"Get premium access to top OTT platforms like Netflix, Disney+, and Prime Video. Stream your favorite shows and movies anytime, anywhere.",25,2.5,22.5
+Device Insurance,addon,None,"Protect your device from accidental damage, theft, and loss. Includes same-day replacement and 24/7 claims support.",15,1.5,13.5
+TV Subscription,addon,None,"Access 100+ live TV channels, on-demand shows, and exclusive sports content. Includes cloud DVR and multi-device streaming.",40,4,36
+International Pack,addon,None,"Stay connected globally with discounted international calling rates, free roaming in 50+ countries, and multilingual customer support.",20,2,18
+Home Broadband,addon,None,"High-speed home internet with unlimited data, seamless streaming, and free installation. Includes a smart Wi-Fi router.",60,6,54

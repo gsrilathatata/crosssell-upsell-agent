@@ -1,0 +1,10 @@
+plan_name,plan_type,summary,tax_amount,plan_price,total_price
+TV Subscription,addon,"Access 100+ live TV channels, on-demand shows, and exclusive sports content. Includes cloud DVR and multi-device streaming.",4,36,40
+International Pack,addon,"Stay connected globally with discounted international calling rates, free roaming in 50+ countries, and multilingual customer support.",2,18,20
+OTT subscription,addon,"Get premium access to top OTT platforms like Netflix, Disney+, and Prime Video. Stream your favorite shows and movies anytime, anywhere.",2.5,22.5,25
+Home Broadband,addon,"High-speed home internet with unlimited data, seamless streaming, and free installation. Includes a smart Wi-Fi router.",6,54,60
+Unlimited 20GB,plan,"Enjoy unlimited talk, text, and 20GB of high-speed data. Includes hotspot capability, 5G access, and premium customer support. Ideal for heavy data users.",8,72,80
+Family Plan,plan,"Perfect for families, this plan offers shared data across up to 5 lines, unlimited nationwide calling, family safety features, and a complimentary subscription to a family entertainment bundle.",10,90,100
+Standard 10GB,plan,"Balanced plan with 10GB of high-speed data, unlimited calls and texts, and rollover data. Great for moderate users who want value and flexibility.",5,45,50
+Device Insurance,plan,"Protect your device from accidental damage, theft, and loss. Includes same-day replacement and 24/7 claims support.",1.5,13.5,15
+Lite 4GB,plan,"Affordable plan with 4GB of high-speed data, unlimited texts, and 500 minutes of talk time. Best suited for light users and students.",3,27,30
