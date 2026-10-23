@@ -1,0 +1,9 @@
+{
+  "name": "913a8661-6d54-4e66-aa8c-0cdcf3526509",
+  "displayName": "plansummary",
+  "description": "This tool will return the plan summary, total price, tax amount and plan price based on plan name.",
+  "openApiSpec": {
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

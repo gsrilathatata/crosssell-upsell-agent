@@ -1,0 +1,61 @@
+openapi: 3.0.0
+info:
+  title: Plan Summary API
+  version: 1.0.0
+  description: API to retrieve plan summaries.
+servers:
+  - url: 'https://plansummary-145075918218.us-central1.run.app'
+paths:
+  /:
+    post:
+      summary: Retrieve plan summary
+      operationId: getPlanSummary
+      requestBody:
+        description: Plan name to retrieve summary for
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                plan_name:
+                  type: string
+                  description: Name of the plan
+              required:
+                - plan_name
+            example:
+              plan_name: Family Plan
+      responses:
+        '200':
+          description: Successful retrieval of plan summary
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  planPrice:
+                    type: number
+                    format: double
+                    description: Price of the plan
+                  planSummary:
+                    type: string
+                    description: Summary of the plan
+                  taxAmount:
+                    type: number
+                    format: double
+                    description: Tax amount for the plan
+                  totalPrice:
+                    type: number
+                    format: double
+                    description: Total price of the plan (including tax)
+                  
+              example:
+                - planPrice: 90
+                  planSummary: >-
+                    Perfect for families, this plan offers shared data across up
+                    to 5 lines, unlimited nationwide calling, family safety
+                    features, and a complimentary subscription to a family
+                    entertainment bundle.
+                  taxAmount: 10
+                  totalPrice: 100
+components: {}

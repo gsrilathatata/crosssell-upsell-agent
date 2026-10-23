@@ -1,0 +1,74 @@
+openapi: 3.0.0
+info:
+  title: Upsellrun Plan Recommendation API
+  version: 1.0.0
+  description: API to get recommended plans from Upsellrun
+servers:
+  - url: 'https://upsellrun-145075918218.us-central1.run.app'
+paths:
+  /predict:
+    post:
+      summary: Predict upsell likelihood based on usage
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                MonthlyDataUsage:
+                  type: number
+                MonthlySmsUsage:
+                  type: string
+                MonthlyCallUsage:
+                  type: string
+              required:
+                - MonthlyDataUsage
+                - MonthlySmsUsage
+                - MonthlyCallUsage
+      responses:
+        '200':
+          description: Successful prediction
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/PredictionOutput'
+components:
+  schemas:
+    PlanRecommendation:
+      type: object
+      properties:
+        classes:
+          type: array
+          items:
+            type: string
+            enum:
+              - Lite 4GB
+              - Standard 10GB
+              - Unlimited 20GB
+              - Family Plan
+          description: List of plan classes
+        scores:
+          type: array
+          items:
+            type: number
+            format: float
+          description: Scores for each plan class
+      description: Recommendation of plans with associated scores
+    PredictionOutput:
+      type: object
+      properties:
+        classes:
+          type: array
+          items:
+            type: string
+          description: List of plan classes
+        scores:
+          type: array
+          items:
+            type: number
+            format: float
+          description: Scores for each plan class
+      description: Output of plan recommendation prediction

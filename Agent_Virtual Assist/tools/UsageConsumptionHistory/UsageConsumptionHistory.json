@@ -1,0 +1,9 @@
+{
+  "name": "654a289f-882e-47f2-a356-178d9e9cb092",
+  "displayName": "UsageConsumptionHistory",
+  "description": "This tool is used to connect with MuleSoft API for TMF 677 Usage consumption report based phone number. The response is a JSON containing the list of usage entries..",
+  "openApiSpec": {
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

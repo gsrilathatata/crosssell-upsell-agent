@@ -1,0 +1,9 @@
+{
+  "name": "e2908f57-a4f0-4ea7-93f4-40085f212be7",
+  "displayName": "conversatiohistory",
+  "description": "Every time when agent receives a response invoke this tool, The user chat input is stored in bigquery using a cloudrun function.",
+  "openApiSpec": {
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

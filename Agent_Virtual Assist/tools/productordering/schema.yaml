@@ -1,0 +1,190 @@
+openapi: 3.0.0
+info:
+  title: Product Ordering API
+  version: 1.0.0
+  description: API to handle product ordering.
+servers:
+  - url: 'https://productordering-kuock8.5sc6y6-2.usa-e2.cloudhub.io'
+paths:
+  /api/products/productOrder:
+    post:
+      summary: Create a product order
+      operationId: createProductOrder
+      requestBody:
+        description: Product order request
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ProductOrderRequest'
+      responses:
+        '200':
+          description: Product order created successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ProductOrderResponse'
+components:
+  schemas:
+    ProductOrderRequest:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Order ID
+        externalId:
+          type: string
+          description: External Order ID
+        priority:
+          type: string
+          description: Order priority
+        description:
+          type: string
+          description: Order description
+        category:
+          type: string
+          description: Order category
+        requestedStartDate:
+          type: string
+          format: date-time
+          description: Requested start date
+        requestedCompletionDate:
+          type: string
+          format: date-time
+          description: Requested completion date
+        orderItem:
+          type: array
+          items:
+            $ref: '#/components/schemas/OrderItem'
+          description: List of order items
+        state:
+          type: string
+          description: Order state
+      required:
+        - id
+        - externalId
+        - priority
+        - description
+        - category
+        - requestedStartDate
+        - requestedCompletionDate
+        - orderItem
+        - state
+    OrderItem:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Order item ID
+        action:
+          type: string
+          description: Order item action
+        product:
+          $ref: '#/components/schemas/Product'
+          description: Product details
+      required:
+        - id
+        - action
+        - product
+    Product:
+      type: object
+      properties:
+        name:
+          type: string
+          description: Product name
+        productOffering:
+          $ref: '#/components/schemas/ProductOffering'
+          description: Product offering details
+        productSpecification:
+          $ref: '#/components/schemas/ProductSpecification'
+          description: Product specification details
+        place:
+          type: array
+          items:
+            $ref: '#/components/schemas/Place'
+          description: List of places
+      required:
+        - name
+        - productOffering
+        - productSpecification
+        - place
+    ProductOffering:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Product offering ID
+        name:
+          type: string
+          description: Product offering name
+      required:
+        - id
+        - name
+    ProductSpecification:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Product specification ID
+        name:
+          type: string
+          description: Product specification name
+      required:
+        - id
+        - name
+    Place:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Place ID
+        role:
+          type: string
+          description: Place role
+      required:
+        - id
+        - role
+    ProductOrderResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Order ID
+        externalId:
+          type: string
+          description: External Order ID
+        priority:
+          type: string
+          description: Order priority
+        description:
+          type: string
+          description: Order description
+        category:
+          type: string
+          description: Order category
+        requestedStartDate:
+          type: string
+          format: date-time
+          description: Requested start date
+        requestedCompletionDate:
+          type: string
+          format: date-time
+          description: Requested completion date
+        orderItem:
+          type: array
+          items:
+            $ref: '#/components/schemas/OrderItem'
+          description: List of order items
+        state:
+          type: string
+          description: Order state
+      required:
+        - id
+        - externalId
+        - priority
+        - description
+        - category
+        - requestedStartDate
+        - requestedCompletionDate
+        - orderItem
+        - state

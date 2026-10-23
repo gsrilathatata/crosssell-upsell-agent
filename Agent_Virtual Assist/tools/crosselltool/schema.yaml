@@ -1,0 +1,39 @@
+openapi: 3.0.0
+info:
+  title: Crossell API
+  version: 1.0.0
+  description: API to retrieve cross-sell recommendations based on plan name.
+servers:
+  - url: 'https://crossellrun-145075918218.us-central1.run.app'
+paths:
+  /crosssell:
+    post:
+      summary: Get cross-sell recommendations
+      operationId: getCrossSellRecommendations
+      requestBody:
+        description: Plan name to get cross-sell recommendations for
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                plan_name:
+                  type: string
+                  description: Name of the plan
+              required:
+                - plan_name
+      responses:
+        '200':
+          description: Successful retrieval of cross-sell recommendations
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  response:
+                    type: string
+                    description: Plan summary description
+                required:
+                  - response
+components: {}

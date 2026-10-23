@@ -1,0 +1,84 @@
+openapi: 3.0.0
+info:
+  title: Usage Summary API
+  version: 1.0.0
+  description: API to retrieve usage summaries based on ID
+servers:
+  - url: 'https://usagesummaries-kuock8.5sc6y6-3.usa-e2.cloudhub.io'
+paths:
+  '/api/usageSummary/{id}':
+    get:
+      summary: Get usage summary by ID
+      operationId: getUsageSummaryById
+      parameters:
+        - name: id
+          in: path
+          description: The ID of the usage summary to retrieve
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UsageSummary'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Usage summary not found
+components:
+  schemas:
+    UsageSummary:
+      type: object
+      properties:
+        id:
+          type: integer
+          format: int64
+          description: Unique identifier for the usage summary
+        customerId:
+          type: string
+          description: Customer ID
+        name:
+          type: string
+          description: Plan name
+        status:
+          type: string
+          description: Status of the plan
+        reportDate:
+          type: string
+          format: date-time
+          description: Date of the usage report
+        usage:
+          type: array
+          items:
+            $ref: '#/components/schemas/Usage'
+      required:
+        - id
+        - customerId
+        - name
+        - status
+        - reportDate
+        - usage
+    Usage:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the usage record
+        usageType:
+          type: string
+          description: 'Type of usage (data, voice, sms)'
+        amount:
+          type: number
+          format: float
+          description: Amount of usage
+        unit:
+          type: string
+          description: 'Unit of measurement (GB, minutes, count)'
+      required:
+        - id
+        - usageType
+        - amount
+        - unit

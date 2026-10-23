@@ -1,0 +1,47 @@
+openapi: 3.0.0
+info:
+  title: Conversation History API
+  version: 1.0.0
+  description: API for interacting with conversation history.
+servers:
+  - url: 'https://conversationhistory-145075918218.us-central1.run.app'
+paths:
+  /:
+    post:
+      summary: Add message to conversation history
+      operationId: addMessage
+      requestBody:
+        description: Message to add
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                user_id:
+                  type: string
+                  description: The ID of the user
+                queryInput:
+                  type: string
+                  description: The query result or message
+              required:
+                - user_id
+                - queryInput
+            example:
+              user_id: test_user
+              queryInput: Hello
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                  type: object
+                  properties:
+                    status:
+                      type: string
+                      description: Status of the operation
+                  required:
+                    - status
+              example:
+                - status: success

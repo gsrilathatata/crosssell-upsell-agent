@@ -1,0 +1,8 @@
+{
+  "name": "dfd6d086-79b9-4a03-ab4c-bd9590d53d48",
+  "displayName": "crosselltool",
+  "openApiSpec": {
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

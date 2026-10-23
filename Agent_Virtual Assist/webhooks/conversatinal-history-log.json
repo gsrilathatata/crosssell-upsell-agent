@@ -1,0 +1,11 @@
+{
+  "name": "26308941-4d50-496b-b0a7-bc3c7c12203d",
+  "displayName": "conversatinal-history-log",
+  "genericWebService": {
+    "uri": "https://conversationhistory-145075918218.us-central1.run.app",
+    "webhookType": "STANDARD"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

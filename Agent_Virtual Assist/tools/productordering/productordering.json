@@ -1,0 +1,9 @@
+{
+  "name": "edc228c0-0363-4b2d-8016-9b00a398580b",
+  "displayName": "productordering",
+  "description": "This tool places order in target system using external API.",
+  "openApiSpec": {
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

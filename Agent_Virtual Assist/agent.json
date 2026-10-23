@@ -1,0 +1,52 @@
+{
+  "displayName": "Tara (Virtual Assist)",
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "enableLogging": true,
+  "projectNumber": 145075918218,
+  "speechToTextSettings": {
+  
+  },
+  "enableStackdriverLogging": true,
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+      "enableStackdriverLogging": true,
+      "enableInteractionLogging": true
+    },
+    "speechAdaptationSettings": {
+    
+    }
+  },
+  "speakerIdSettings": {
+  
+  },
+  "bigqueryExportSettings": {
+    "enabled": true,
+    "bigqueryTable": "projects/hacker2025-team-46-dev/datasets/Chathistory/tables/dialogflow_bigquery_export_data"
+  },
+  "duplexSettings": {
+  
+  },
+  "answerFeedbackSettings": {
+  
+  },
+  "startPlaybook": "Default Generative Playbook",
+  "webClientSettings": {
+    "backgroundColor": "#FDF3F2",
+    "userInputColor": "#FFBFC5",
+    "agentResponseColor": "#FFFFFF",
+    "boxBorderRadius": "0"
+  }
+}

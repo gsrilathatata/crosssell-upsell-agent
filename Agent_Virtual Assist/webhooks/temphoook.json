@@ -1,0 +1,11 @@
+{
+  "name": "fae647e1-7aa9-40a4-b369-fc52da40519e",
+  "displayName": "temphoook",
+  "genericWebService": {
+    "uri": "https://tempfunc-145075918218.europe-west1.run.app",
+    "webhookType": "STANDARD"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

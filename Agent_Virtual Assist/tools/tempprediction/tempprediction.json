@@ -1,0 +1,9 @@
+{
+  "name": "9392234f-a70b-451b-a7e4-16ad6e9dd86a",
+  "displayName": "tempprediction",
+  "description": "this will be used to get predictions",
+  "openApiSpec": {
+    "ignoreUnknownFields": true
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}
